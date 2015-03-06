@@ -93,6 +93,7 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About</h2>
                 <h3>Daniel A. Gross writes and makes radio.</h3>
+                <div class="col-lg-8">
                 <p>
                 	<!--First Column of Links-->
 	                <div class="col-md-4"> 
@@ -120,13 +121,15 @@
 	                Re:Sound
 	                </div>
                 </p>
+                </div>
+				<div class="col-lg-8">
                  	<p>
                     	Q: How do you pronounce your last name? <br>
 						A: As if it were an exclamation of disgust. <br><br>
 						Q: Are you that guy who writes books and columns about business? <br>
-						A: Nope, sorry. That would be Daniel Gross (@grossdm). <br><br>
+						A: Nope, sorry. That would be Daniel Gross (<a href="https://twitter.com/grossdm">@grossdm</a>). <br><br>
 						Q: Can I write to you with questions, comments, and hate mail? <br>
-						A: Please do. Email me or find me on Twitter @readwriteradio. <br><br>
+						A: Please do. Email me or find me on Twitter  <a href="https://twitter.com/readwriteradio">@readwriteradio</a>. <br><br>
 						Q: What kind of a name is “Gross”? <br>
 						A: Aren't you a little old for jokes about people's names?<br><br>
 						Q: I guess so. Will you write for my magazine or produce radio for my show? <br>
@@ -138,6 +141,7 @@
 						Q: Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
 						A: I could ask you the same thing.<br><br>
 					</p>
+				</div>
             </div>
         </div>
     </section>
@@ -182,7 +186,7 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact Daniel A. Gross</h2>
                 <p>Blurb about contacting</p>
-                <p><a href="mailto:feedback@startbootstrap.com">Email Address Here</a>
+                <p><a href="mailto:daniel.alexander.gross@gmail.com">Email Me</a>
                 </p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
