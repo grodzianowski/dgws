@@ -172,6 +172,7 @@
                     <h3>And you can hear my stories on public radio shows and podcasts.</h3>
                     <p><img src="img/99invisible.jpg" alt="99% Invisible"></p> 
                     <p>99% Invisible. “Tunnel 57.”</p>
+                    <div id="radiosample1"></div>
                     <p>KCRW's UnFictional. “Bookbinder.”</p>
                     <p>ABC's Radiotonic. “Living by the Book.”</p>
                     <p>Rendered Radio. “Everything is an Instrument.”</p>
@@ -199,7 +200,7 @@
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-            <p>Copyright &copy; Daniel A. Gross 2015</p>
+            <p style="text-center">Copyright &copy; Daniel A. Gross 2015</p>
         </div>
     </footer>
 
@@ -214,6 +215,12 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/grayscale.js"></script>
+    
+    <!-- SoundCloud API Javascript -->
+    <script src="js/soundcloud.player.api.js"></script>
+    <script type="text/JavaScript">
+  SC.oEmbed("https://soundcloud.com/theatticpodcast/daniel-a-gross-record-of-birth", {color: "000", theme_color:"fff", sharing:"true", font:"Alegreya", show_user:"false", show_artwork:"false"},  document.getElementById("radiosample1"));
+    </script>
 
 </body>
 
