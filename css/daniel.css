@@ -186,37 +186,37 @@ a:focus {
     }
 }
 
-.btn-circle {
+.btn-enter {
     width: 140px;
     height: 140px;
     margin-top: 15px;
-    padding: 7px 16px;
+    /*padding: 7px 16px;*/
     border: none;
     background-image: url("/img/enter.png");
     border-radius: none;
     font-size: 40px;
     color: #000;
-    background: 0 0;
+    /*background: 0 0;*/
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
 }
 
-.btn-circle:hover,
-.btn-circle:focus {
+.btn-enter:hover,
+.btn-enter:focus {
 	background-image: url("/img/enterh.png");
     outline: 0;
     color: red;
 }
 
-.btn-circle i.animated {
+.btn-enter i.animated {
     -webkit-transition-property: -webkit-transform;
     -webkit-transition-duration: 1s;
     -moz-transition-property: -moz-transform;
     -moz-transition-duration: 1s;
 }
 
-.btn-circle:hover i.animated {
+.btn-enter:hover i.animated {
     -webkit-animation-name: pulse;
     -moz-animation-name: pulse;
     -webkit-animation-duration: 1.5s;

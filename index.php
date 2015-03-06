@@ -78,7 +78,7 @@
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Daniel A.Gross</h1>
                         <!--<p class="intro-text">@readwriteradio</p>-->
-                        <a href="#about" class="btn btn-circle page-scroll">
+                        <a href="#about" class="btn btn-enter page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
                     </div>
@@ -93,10 +93,10 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About</h2>
                 <h3>Daniel A. Gross writes and makes radio.</h3>
-                <div class="col-lg-8">
+                <div class="col-lg-12">
                 <p>
                 	<!--First Column of Links-->
-	                <div class="col-md-4"> 
+	                <div class="col-lg-6"> 
 	                Newsweek<br>
 	                Nautilus Magazine<br>
 	                The Washington Post<br>
@@ -109,7 +109,7 @@
 	                </div>
 	                
 	                <!--Second Column of Links-->
-	                <div class="col-md-4 col-md-offset-4"> 
+	                <div class="col-lg-6 col-lg-offset-6"> 
 	                99% Invisible
 	                KCRW's UnFictional
 	                ABC's Radiotronic
@@ -122,7 +122,7 @@
 	                </div>
                 </p>
                 </div>
-				<div class="col-lg-8">
+				<div class="col-lg-12">
                  	<p>
                     	Q: How do you pronounce your last name? <br>
 						A: As if it were an exclamation of disgust. <br><br>
