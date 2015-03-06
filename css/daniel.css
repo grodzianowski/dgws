@@ -52,7 +52,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #1d9b6c;
+    color: red;
 }
 
 .light {
@@ -98,7 +98,7 @@ a:focus {
 
 .navbar-custom .nav li a:hover {
     outline: 0;
-    color: rgba(255,255,255,.8);
+    color: red;
     background-color: transparent;
 }
 
@@ -113,11 +113,11 @@ a:focus {
 }
 
 .navbar-custom .nav li.active a {
-    background-color: rgba(255,255,255,.3);
+    background-color: #000);
 }
 
 .navbar-custom .nav li.active a:hover {
-    color: #000;
+    color: red;
 }
 
 @media(min-width:768px) {
@@ -144,7 +144,7 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #fff;
+    color: #000;
     /*background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;*/
     background-color: #fff;
     -webkit-background-size: cover;
@@ -199,8 +199,8 @@ a:focus {
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #fff;
-    background: rgba(255,255,255,.1);
+    color: red;
+    background: #fff;
 }
 
 .btn-circle i.animated {
