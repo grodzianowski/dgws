@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Daniel Gross - Journalsit</title>
+    <title>Daniel Gross - Journalist</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -117,15 +117,16 @@
 
     <!-- Writing Section -->
     <section id="writing" class="content-section text-center">
-        <div class="download-section">
+        <div class="generic-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
                 	<h2>Writing</h2>
                     <h3>You can find some of my writing on newsstands.</h3>
-                    <p>Newsweek Image Here</p>
+                    <p><img src="img/newsweek.jpg" alt="newsweek article"></p>
                     <h3> Once in a while my stories are picked up by venues like Longreads,Next Draft, the Morning News, and, uh, Australian and Irish radio. </h3>
-                    <p>Longreads Image</p>
-                    <h3> I curate stuff, too. Mostly on Twitter(add link), but sometimes elsewhere(add link).</h3>
+                    <p><img src="img/longreads.jpg" alt="longreads"></p>
+                    <h3> I curate stuff, too. Mostly on <a href="https://twitter.com/readwriteradio">Twitter</a>, but sometimes <a href="https://longreads.com/search/?q=Daniel%20A.%20Gross">elsewhere</a>.
+                    </h3>
                 </div>
             </div>
         </div>
@@ -133,7 +134,7 @@
     
      <!-- Radio Section -->
     <section id="radio" class="content-section text-center">
-        <div class="download-section">
+        <div class="generic-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Radio</h2>
@@ -157,7 +158,7 @@
                 </p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                        <a href="https://twitter.com/readwriteradio" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                     </li>
                 </ul>
             </div>
