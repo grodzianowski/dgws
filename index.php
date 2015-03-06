@@ -9,18 +9,16 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Grayscale - Start Bootstrap Theme</title>
+    <title>Daniel Gross - Journalsit</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/grayscale.css" rel="stylesheet">
+    <link href="css/daniel.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -41,7 +39,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i>  <span class="light">Start</span> Bootstrap
+                    Daniel A. Gross
                 </a>
             </div>
 
@@ -56,7 +54,10 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#download">Download</a>
+                        <a class="page-scroll" href="#writing">Writing</a>
+                    </li>
+                     <li>
+                        <a class="page-scroll" href="#radio">Radio</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -74,8 +75,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">Grayscale</h1>
-                        <p class="intro-text">A free, responsive, one page Bootstrap theme.<br>Created by Start Bootstrap.</p>
+                        <h1 class="brand-heading">Daniel A.Gross</h1>
+                        <!--<p class="intro-text">@readwriteradio</p>-->
                         <a href="#about" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
@@ -89,22 +90,58 @@
     <section id="about" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>About Grayscale</h2>
-                <p>Grayscale is a free Bootstrap 3 theme created by Start Bootstrap. It can be yours right now, simply download the template on <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview page</a>. The theme is open source, and you can use it for any purpose, personal or commercial.</p>
-                <p>This theme features stock photos by <a href="http://gratisography.com/">Gratisography</a> along with a custom Google Maps skin courtesy of <a href="http://snazzymaps.com/">Snazzy Maps</a>.</p>
-                <p>Grayscale includes full HTML, CSS, and custom JavaScript files along with LESS files for easy customization.</p>
+                <h2>About</h2>
+                <h3>Daniel A. Gross writes and makes radio.</h3>
+                <p>Links here</p>
+                 	<p>
+                    	Q: How do you pronounce your last name? <br>
+						A: As if it were an exclamation of disgust. <br><br>
+						Q: Are you that guy who writes books and columns about business? <br>
+						A: Nope, sorry. That would be Daniel Gross (@grossdm). <br><br>
+						Q: Can I write to you with questions, comments, and hate mail? <br>
+						A: Please do. Email me or find me on Twitter @readwriteradio. <br><br>
+						Q: What kind of a name is “Gross”? <br>
+						A: Aren't you a little old for jokes about people's names?<br><br>
+						Q: I guess so. Will you write for my magazine or produce radio for my show? <br>
+						A: I'll certaintly think about it if you send me a note. Nice of you to ask. <br><br>
+						Q: But really, what kind of a name is that? <br>
+						A: (…)<br><br>
+						Q: Your silence unsettles me. Who designed your website? <br>
+						A: <a href="http://www.cristoforomagliozzi.com">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com">his latest</a>.<br><br>
+						Q: Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
+						A: I could ask you the same thing.<br><br>
+					</p>
             </div>
         </div>
     </section>
 
-    <!-- Download Section -->
-    <section id="download" class="content-section text-center">
+    <!-- Writing Section -->
+    <section id="writing" class="content-section text-center">
         <div class="download-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Download Grayscale</h2>
-                    <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
-                    <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a>
+                	<h2>Writing</h2>
+                    <h3>You can find some of my writing on newsstands.</h3>
+                    <p>Newsweek Image Here</p>
+                    <h3> Once in a while my stories are picked up by venues like Longreads,Next Draft, the Morning News, and, uh, Australian and Irish radio. </h3>
+                    <p>Longreads Image</p>
+                    <h3> I curate stuff, too. Mostly on Twitter(add link), but sometimes elsewhere(add link).</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+     <!-- Radio Section -->
+    <section id="radio" class="content-section text-center">
+        <div class="download-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Radio</h2>
+                    <h3>And you can hear my stories on public radio shows and podcasts.</h3>
+                    <p>99% Invisible. “Tunnel 57.”</p>
+                    <p>KCRW's UnFictional. “Bookbinder.”</p>
+                    <p>ABC's Radiotonic. “Living by the Book.”</p>
+                    <p>Rendered Radio. “Everything is an Instrument.”</p>
                 </div>
             </div>
         </div>
@@ -114,32 +151,22 @@
     <section id="contact" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Start Bootstrap</h2>
-                <p>Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!</p>
-                <p><a href="mailto:feedback@startbootstrap.com">feedback@startbootstrap.com</a>
+                <h2>Contact Daniel A. Gross</h2>
+                <p>Blurb about contacting</p>
+                <p><a href="mailto:feedback@startbootstrap.com">Email Address Here</a>
                 </p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
                         <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                     </li>
-                    <li>
-                        <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                    </li>
-                    <li>
-                        <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-                    </li>
                 </ul>
             </div>
         </div>
     </section>
-
-    <!-- Map Section -->
-    <div id="map"></div>
-
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-            <p>Copyright &copy; Your Website 2014</p>
+            <p>Copyright &copy; Daniel A. Gross 2015</p>
         </div>
     </footer>
 
@@ -151,9 +178,6 @@
 
     <!-- Plugin JavaScript -->
     <script src="js/jquery.easing.min.js"></script>
-
-    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
 
     <!-- Custom Theme JavaScript -->
     <script src="js/grayscale.js"></script>
