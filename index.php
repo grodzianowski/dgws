@@ -90,7 +90,6 @@
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
                 <h2>About</h2>
                 <h3>Daniel A. Gross writes and makes radio.</h3>
                 <div class="col-lg-12">
@@ -119,8 +118,8 @@
 					KALW's The Spot
 	                Re:Sound
 	                </div>
-                </div>
-				<div class="col-lg-12">
+         </div>
+		 <div class="row">
                  	<p>
                     	Q: How do you pronounce your last name? <br>
 						A: As if it were an exclamation of disgust. <br><br>
@@ -139,9 +138,7 @@
 						Q: Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
 						A: I could ask you the same thing.<br><br>
 					</p>
-				</div>
-            </div>
-        </div>
+		</div>
     </section>
 
     <!-- Writing Section -->

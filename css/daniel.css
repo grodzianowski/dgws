@@ -15,6 +15,11 @@ html {
     height: 100%;
 }
 
+#widget circle{
+	fill: "black";
+	stroke: "black";
+}
+
 h1,
 h2,
 h3,
