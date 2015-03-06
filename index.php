@@ -94,7 +94,6 @@
                 <h2>About</h2>
                 <h3>Daniel A. Gross writes and makes radio.</h3>
                 <div class="col-lg-12">
-                <p>
                 	<!--First Column of Links-->
 	                <div class="col-lg-6"> 
 	                Newsweek<br>
@@ -120,7 +119,6 @@
 					KALW's The Spot
 	                Re:Sound
 	                </div>
-                </p>
                 </div>
 				<div class="col-lg-12">
                  	<p>
@@ -172,7 +170,9 @@
                     <h3>And you can hear my stories on public radio shows and podcasts.</h3>
                     <p><img src="img/99invisible.jpg" alt="99% Invisible"></p> 
                     <p>99% Invisible. “Tunnel 57.”</p>
-                    <div id="radiosample1"></div>
+                    <div>
+	                    <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/161524274&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;visual=true&amp;color=#fff&amp;theme_color=#fff&amp;font="Alegreya"&amp;show_artwork=false"></iframe>
+                    </div>
                     <p>KCRW's UnFictional. “Bookbinder.”</p>
                     <p>ABC's Radiotonic. “Living by the Book.”</p>
                     <p>Rendered Radio. “Everything is an Instrument.”</p>
@@ -218,10 +218,7 @@
     
     <!-- SoundCloud API Javascript -->
     <script src="js/soundcloud.player.api.js"></script>
-    <script type="text/JavaScript">
-  SC.oEmbed("https://soundcloud.com/theatticpodcast/daniel-a-gross-record-of-birth", {color: "000", theme_color:"fff", sharing:"true", font:"Alegreya", show_user:"false", show_artwork:"false"},  document.getElementById("radiosample1"));
-    </script>
-
+    
 </body>
 
 </html>
