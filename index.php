@@ -6,8 +6,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Daniel A. Gross writes and makes radio.">
+    <meta name="keywords" content="writer, radio, journalist"
+    <meta name="author" content="Cristoforo Magliozzi">
 
     <title>Daniel Gross - Journalist</title>
 
@@ -92,7 +93,33 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About</h2>
                 <h3>Daniel A. Gross writes and makes radio.</h3>
-                <p>Links here</p>
+                <p>
+                	<!--First Column of Links-->
+	                <div class="span 6"> 
+	                Newsweek<br>
+	                Nautilus Magazine<br>
+	                The Washington Post<br>
+	                Smithsonian.com<br>
+	                The Big Roundtable<br>
+	                The Atlantic Online<br>
+	                Guardian Science<br>
+	                Road to Paris<br>
+	                The Toast<br>
+	                </div>
+	                
+	                <!--Second Column of Links-->
+	                <div class="span 6 offset 6"> 
+	                99% Invisible
+	                KCRW's UnFictional
+	                ABC's Radiotronic
+	                WGBH's Innovation Hub
+	                Rendered Radio (Destination DIY)
+	                Distillations
+	                PRX Remix
+					KALW's The Spot
+	                Re:Sound
+	                </div>
+                </p>
                  	<p>
                     	Q: How do you pronounce your last name? <br>
 						A: As if it were an exclamation of disgust. <br><br>
@@ -123,7 +150,7 @@
                 	<h2>Writing</h2>
                     <h3>You can find some of my writing on newsstands.</h3>
                     <p><img src="img/newsweek.jpg" alt="newsweek article"></p>
-                    <h3> Once in a while my stories are picked up by venues like Longreads,Next Draft, the Morning News, and, uh, Australian and Irish radio. </h3>
+                    <h3> Once in a while my stories are picked up by venues like Longreads, Next Draft, the Morning News, and, uh, Australian and Irish radio. </h3>
                     <p><img src="img/longreads.jpg" alt="longreads"></p>
                     <h3> I curate stuff, too. Mostly on <a href="https://twitter.com/readwriteradio">Twitter</a>, but sometimes <a href="https://longreads.com/search/?q=Daniel%20A.%20Gross">elsewhere</a>.
                     </h3>
@@ -139,6 +166,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Radio</h2>
                     <h3>And you can hear my stories on public radio shows and podcasts.</h3>
+                    <p><img src="img/99invisible.jpg" alt="99% Invisible"></p> 
                     <p>99% Invisible. “Tunnel 57.”</p>
                     <p>KCRW's UnFictional. “Bookbinder.”</p>
                     <p>ABC's Radiotonic. “Living by the Book.”</p>
