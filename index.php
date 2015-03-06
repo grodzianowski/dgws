@@ -95,7 +95,7 @@
                 <h3>Daniel A. Gross writes and makes radio.</h3>
                 <p>
                 	<!--First Column of Links-->
-	                <div class="span 6"> 
+	                <div class="col-md-4"> 
 	                Newsweek<br>
 	                Nautilus Magazine<br>
 	                The Washington Post<br>
@@ -108,7 +108,7 @@
 	                </div>
 	                
 	                <!--Second Column of Links-->
-	                <div class="span 6 offset 6"> 
+	                <div class="col-md-4 col-md-offset-4"> 
 	                99% Invisible
 	                KCRW's UnFictional
 	                ABC's Radiotronic

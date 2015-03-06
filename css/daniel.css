@@ -22,7 +22,7 @@ h4,
 h5,
 h6 {
     margin: 0 0 35px;
-    text-transform: uppercase;
+    text-transform: none;
     font-family: Alegreya, serif;
     font-weight: 700;
     letter-spacing: 1px;
@@ -187,7 +187,7 @@ a:focus {
 
 .btn-circle {
     width: 140px;
-    height: 149px;
+    height: 140px;
     margin-top: 15px;
     padding: 7px 16px;
     border: none;
@@ -206,7 +206,6 @@ a:focus {
 	background-image: url("img/enterh.png");
     outline: 0;
     color: red;
-    background: #fff;
 }
 
 .btn-circle i.animated {
