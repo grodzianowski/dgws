@@ -27,6 +27,44 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    
+     <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    Daniel A. Gross
+                </a>
+            </div>
+
+
+            <!-- Collect the nav links, forms, and other content for toggling-->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse"> 
+                <!-- <ul class="nav navbar-nav"> -->
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section-->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#writing">Writing</a>
+                    </li>
+                     <li>
+                        <a class="page-scroll" href="#radio">Radio</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                </ul>
+            </div>
+            
+            
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
 
 </head>
 
@@ -40,7 +78,7 @@
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Daniel A.Gross</h1>
                         <!--<p class="intro-text">@readwriteradio</p>-->
-                        <h3><a href="#writing">writes<i class="fa fa-angle-double-down animated"></i></a> and <a href="#radio">makes radio <br><br><i class="fa fa-angle-double-down animated"></i></a>.<a href="#about" class="btn btn-about page-scroll">
+                        <h3><a href="#writing">writes<i class="fa fa-angle-double-down animated"></i></a> and <a href="#radio">makes radio. <br><br><i class="fa fa-angle-double-down animated"></i></a><a href="#about" class="btn btn-about page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
 						</a></h3>
                 <div class="col-md-12" style="float: none; margin: 0 auto;">
@@ -139,14 +177,14 @@
         <div class="row">
                 <h2>About</h2>
 					<div class="row" style="padding-top:20px">
-					 	<div class="col-md-12-offset-2">
+					 	<div class="col-md-8 col-md-offset-2">
 			                 	<h3 style="text-align:left">
 			                    	Q: How do you pronounce your last name? <br>
 									A: As if it were an exclamation of disgust. <br><br>
 									Q: Are you that guy who writes books and columns about business? <br>
 									A: Nope, sorry. That would be Daniel Gross (<a href="https://twitter.com/grossdm">@grossdm</a>). <br><br>
 									Q: Can I write to you with questions, comments, and hate mail? <br>
-									A: Please do. Email me or find me on Twitter  <a href="https://twitter.com/readwriteradio">@readwriteradio</a>. <br><br>
+									A: Please do. <a href="mailto:daniel.alexander.gross@gmail.com">Email me</a> or find me on Twitter  <a href="https://twitter.com/readwriteradio">@readwriteradio</a>. <br><br>
 									Q: What kind of a name is “Gross”? <br>
 									A: Aren't you a little old for jokes about people's names?<br><br>
 									Q: I guess so. Will you write for my magazine or produce radio for my show? <br>
@@ -160,20 +198,7 @@
 								</h3>
 					 	</div>
 
-			        <div class="row">
-			            <div class="col-lg-8 col-lg-offset-2">
-			                <h2>Contact Daniel A. Gross</h2>
-			                <p>Blurb about contacting</p>
-			                <p><a href="mailto:daniel.alexander.gross@gmail.com">Email Me</a>
-			                </p>
-			                <ul class="list-inline banner-social-buttons">
-			                    <li>
-			                        <a href="https://twitter.com/readwriteradio" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-			                    </li>
-			                </ul>
-			         </div>
-     </div>
- </section>
+</section>
     
     <!-- Footer -->
     <footer>
