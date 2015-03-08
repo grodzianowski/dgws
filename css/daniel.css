@@ -200,7 +200,7 @@ a:focus {
     }
 }
 
-.btn-enter {
+.btn-about {
     width: 55px;
     height: 47px;
     margin-top: 15px;
@@ -216,21 +216,21 @@ a:focus {
     transition: background .3s ease-in-out;
 }
 
-.btn-enter:hover,
-.btn-enter:focus {
+.btn-about:hover,
+.btn-about:focus {
 	background-image: url("/img/enterh.png");
     outline: 0;
     color: red;
 }
 
-.btn-enter i.animated {
+.btn-about i.animated {
     -webkit-transition-property: -webkit-transform;
     -webkit-transition-duration: 1s;
     -moz-transition-property: -moz-transform;
     -moz-transition-duration: 1s;
 }
 
-.btn-enter:hover i.animated {
+.btn-about:hover i.animated {
     -webkit-animation-name: pulse;
     -moz-animation-name: pulse;
     -webkit-animation-duration: 1.5s;
@@ -240,6 +240,91 @@ a:focus {
     -webkit-animation-timing-function: linear;
     -moz-animation-timing-function: linear;
 }
+
+
+.btn-writes {
+    width: 59px;
+    height: 43px;
+    margin-top: 15px;
+    /*padding: 7px 16px;*/
+    border: none;
+    background-image: url("/img/writes.png");
+    border-radius: none;
+    font-size: 40px;
+    color: #000;
+    /*background: 0 0;*/
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+}
+
+.btn-writes:hover,
+.btn-writes:focus {
+	background-image: url("/img/writesh.png");
+    outline: 0;
+    color: red;
+}
+
+.btn-writes i.animated {
+    -webkit-transition-property: -webkit-transform;
+    -webkit-transition-duration: 1s;
+    -moz-transition-property: -moz-transform;
+    -moz-transition-duration: 1s;
+}
+
+.btn-writes:hover i.animated {
+    -webkit-animation-name: pulse;
+    -moz-animation-name: pulse;
+    -webkit-animation-duration: 1.5s;
+    -moz-animation-duration: 1.5s;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-timing-function: linear;
+}
+
+.btn-makesradio {
+    width: 44px;
+    height: 50px;
+    margin-top: 15px;
+    /*padding: 7px 16px;*/
+    border: none;
+    background-image: url("/img/makesradio.png");
+    border-radius: none;
+    font-size: 40px;
+    color: #000;
+    /*background: 0 0;*/
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+}
+
+.btn-makesradio:hover,
+.btn-makesradio:focus {
+	background-image: url("/img/makesradioh.png");
+    outline: 0;
+    color: red;
+}
+
+.btn-makesradio i.animated {
+    -webkit-transition-property: -webkit-transform;
+    -webkit-transition-duration: 1s;
+    -moz-transition-property: -moz-transform;
+    -moz-transition-duration: 1s;
+}
+
+.btn-makesradio:hover i.animated {
+    -webkit-animation-name: pulse;
+    -moz-animation-name: pulse;
+    -webkit-animation-duration: 1.5s;
+    -moz-animation-duration: 1.5s;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-timing-function: linear;
+}
+
+
 
 @-webkit-keyframes pulse {    
     0 {

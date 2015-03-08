@@ -108,13 +108,13 @@
 		                 </ul>
 		                </div>
                 	</div>
-                	<a href="#writing" class="btn btn-enter page-scroll">
+                	<a href="#writing" class="btn btn-writes page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
-                    <a href="#about" class="btn btn-enter page-scroll">
+                    <a href="#about" class="btn btn-about page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
 						</a>
-                	<a href="#radio" class="btn btn-enter page-scroll">
+                	<a href="#radio" class="btn btn-makesradio page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
          </div>
