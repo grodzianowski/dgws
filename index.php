@@ -140,9 +140,9 @@
                 	<img src="img/writes.png">
                 	<h2>Writing</h2>
                     <h4>You can find some of my writing on newsstands.</h4>
-                    <p><img src="img/newsweek.jpg" alt="newsweek article"></p>
+                    <p><img src="img/newsweek.jpg" alt="newsweek article" style="width:730px"></p>
                     <h4> Once in a while my stories are picked up by venues like Longreads, Next Draft, the Morning News, and, uh, Australian and Irish radio. </h4>
-                    <p><img src="img/longreads.jpg" alt="longreads"></p>
+                    <p><img src="img/longreads.jpg" alt="longreads" style="width:730px"></p>
                     <h4> I curate stuff, too. Mostly on <a href="https://twitter.com/readwriteradio">Twitter</a>, but sometimes <a href="https://longreads.com/search/?q=Daniel%20A.%20Gross">elsewhere</a>.
                     </h4>
                 </div>
@@ -158,7 +158,7 @@
                 	<img src="img/makesradio.png">
                     <h2>Radio</h2>
                     <h4>And you can hear my stories on public radio shows and podcasts.</h4>
-                    <p><img src="img/99invisible.jpg" alt="99% Invisible"></p> 
+                    <p><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px"></p> 
                     <p>99% Invisible. “Tunnel 57.”
                     <div>
 	                    <audio controls>
