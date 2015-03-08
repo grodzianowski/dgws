@@ -126,6 +126,7 @@
                 	</div>
          </div>
 		 <div class="row">
+		 	<div class="col-md-12">
                  	<p>
                     	Q: How do you pronounce your last name? <br>
 						A: As if it were an exclamation of disgust. <br><br>
@@ -144,6 +145,7 @@
 						Q: Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
 						A: I could ask you the same thing.<br><br>
 					</p>
+		 	</div>
 		</div>
     </section>
 
