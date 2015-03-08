@@ -92,10 +92,10 @@
         <div class="row">
                 <h2>About</h2>
                 <h3>Daniel A. Gross writes and makes radio.</h3>
-                <div class="span12">
+                <div class="col-md-12">
                 	<!--First Column of Links-->
                 	<div class="row">
-		                <div class="span6"> 
+		                <div class="col-md-6"> 
 		                <ul>
 		               	 <li> <a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html">Newsweek</a></li>
 					   	 <li> <a href="http://nautil.us/issue/16/nothingness/this-is-your-brain-on-silence">Nautilus Magazine</a></li>
@@ -110,13 +110,13 @@
 		                </div>
 		                
 		                <!--Second Column of Links-->
-		                <div class="span6 offset6"> 
+		                <div class="col-md-offset-6"> 
 		                 <ul>
 							 <li><a href="http://99percentinvisible.org/episode/tunnel-57/">99% Invisible</a></li>
-							 <li><a href="">NPR's All Things Considered</a></li>
+							 <li>NPR's All Things Considered</li>
 							 <li><a href="http://www.kcrw.com/news-culture/shows/unfictional/a-need-to-build">KCRW's UnFictional</a></li>
-							 <li><a href="">ABC's Radiotronic</a></li>
-							 <li><a href="">WGBH's Innovation Hub</a></li>
+							 <li>ABC's Radiotronic</li>
+							 <li>WGBH's Innovation Hub</li>
 							 <li><a href="http://www.maximumfun.org/rendered/destination-everything-instrument">Rendered Radio (Destination DIY)</a></li>
 							 <li><a href="http://www.chemheritage.org/discover/media/distillations/195-trash-talk-the-persistence-of-waste.aspx">Distillations</a></li>
 							 <li><a href="https://beta.prx.org/stories/68948">PRX Remix</a></li>
