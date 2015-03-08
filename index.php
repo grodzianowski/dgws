@@ -177,7 +177,7 @@
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
         <div class="row">
-        		<img src="img/about.png">
+        		<img src="img/enter.png">
                 <h2>About</h2>
 					<div class="row" style="padding-top:20px">
 					 	<div class="col-md-8 col-md-offset-2">
