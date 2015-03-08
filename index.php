@@ -139,12 +139,12 @@
                 <div class="col-lg-8 col-lg-offset-2">
                 	<img src="img/writes.png">
                 	<h2>Writing</h2>
-                    <h3>You can find some of my writing on newsstands.</h3>
+                    <h4>You can find some of my writing on newsstands.</h4>
                     <p><img src="img/newsweek.jpg" alt="newsweek article"></p>
-                    <h3> Once in a while my stories are picked up by venues like Longreads, Next Draft, the Morning News, and, uh, Australian and Irish radio. </h3>
+                    <h4> Once in a while my stories are picked up by venues like Longreads, Next Draft, the Morning News, and, uh, Australian and Irish radio. </h4>
                     <p><img src="img/longreads.jpg" alt="longreads"></p>
-                    <h3> I curate stuff, too. Mostly on <a href="https://twitter.com/readwriteradio">Twitter</a>, but sometimes <a href="https://longreads.com/search/?q=Daniel%20A.%20Gross">elsewhere</a>.
-                    </h3>
+                    <h4> I curate stuff, too. Mostly on <a href="https://twitter.com/readwriteradio">Twitter</a>, but sometimes <a href="https://longreads.com/search/?q=Daniel%20A.%20Gross">elsewhere</a>.
+                    </h4>
                 </div>
             </div>
         </div>
@@ -157,7 +157,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                 	<img src="img/makesradio.png">
                     <h2>Radio</h2>
-                    <h3>And you can hear my stories on public radio shows and podcasts.</h3>
+                    <h4>And you can hear my stories on public radio shows and podcasts.</h4>
                     <p><img src="img/99invisible.jpg" alt="99% Invisible"></p> 
                     <p>99% Invisible. “Tunnel 57.”</p>
                     <div>
@@ -181,7 +181,7 @@
                 <h2>About</h2>
 					<div class="row" style="padding-top:20px">
 					 	<div class="col-md-8 col-md-offset-2">
-			                 	<h3 style="text-align:left">
+			                 	<h4 style="text-align:left">
 			                    	Q: How do you pronounce your last name? <br>
 									A: As if it were an exclamation of disgust. <br><br>
 									Q: Are you that guy who writes books and columns about business? <br>
@@ -198,7 +198,7 @@
 									A: <a href="http://www.cristoforomagliozzi.com">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com">his latest</a>.<br><br>
 									Q: Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
 									A: I could ask you the same thing.<br><br>
-								</h3>
+								</h4>
 					 	</div>
 
 </section>
