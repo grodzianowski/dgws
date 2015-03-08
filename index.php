@@ -44,10 +44,11 @@
                 </a>
             </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-                <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+
+            <!-- Collect the nav links, forms, and other content for toggling
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse"> -->
+                <!-- <ul class="nav navbar-nav"> -->
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section 
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
@@ -61,7 +62,9 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                 </ul>
-            </div>
+            </div> -->
+            
+            
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container -->
@@ -75,8 +78,10 @@
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Daniel A.Gross</h1>
                         <!--<p class="intro-text">@readwriteradio</p>-->
-                        <h3><a href="#writing">writes<i class="fa fa-angle-double-down animated"></i></a> and <a href="#radio">makes radio<i class="fa fa-angle-double-down animated"></i></a>.</h3>
-                <div class="col-md-12">
+                        <h3><a href="#writing">writes<i class="fa fa-angle-double-down animated"></i></a> and <a href="#radio">makes radio<i class="fa fa-angle-double-down animated"></i></a>.<a href="#about" class="btn btn-about page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+						</a></h3>
+                <div class="col-md-12" style="float: none; margin: 0 auto;">
                 	<!--First Column of Links-->
                 	<div class="row" style="float: none; margin: 0 auto;" >
 		                <div class="col-md-6" style="text-align:left"> 
@@ -91,6 +96,9 @@
 		                 <li> <a href="http://roadtoparis.info/2014/12/04/el-nino-mystery-pink-waters-scientists/">Road to Paris</a></li>
 		                 <li> <a href="http://the-toast.net/2014/04/04/testing-waters-mormon-feminists/">The Toast</a></li>
 		                </ul>
+		                <a href="#writing" class="btn btn-writes page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
 		                </div>
 		                
 		                <!--Second Column of Links-->
@@ -106,17 +114,14 @@
 							 <li><a href="https://beta.prx.org/stories/68948">PRX Remix</a></li>
 							 <li><a href="http://www.thirdcoastfestival.org/library/1560-re-sound-188-the-tight-spaces-show"> Re:Sound</a></li>
 		                 </ul>
+		                 <a href="#radio" class="btn btn-makesradio page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
 		                </div>
                 	</div>
-                	<a href="#writing" class="btn btn-writes page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
-                        </a>
-                    <a href="#about" class="btn btn-about page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
-						</a>
-                	<a href="#radio" class="btn btn-makesradio page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
-                        </a>
+                	
+                  
+                	
          </div>
 
                     </div>
