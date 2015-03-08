@@ -137,6 +137,7 @@
         <div class="generic-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
+                	<img src="img/writes.png">
                 	<h2>Writing</h2>
                     <h3>You can find some of my writing on newsstands.</h3>
                     <p><img src="img/newsweek.jpg" alt="newsweek article"></p>
@@ -154,6 +155,7 @@
         <div class="generic-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
+                	<img src="img/makesradio.png">
                     <h2>Radio</h2>
                     <h3>And you can hear my stories on public radio shows and podcasts.</h3>
                     <p><img src="img/99invisible.jpg" alt="99% Invisible"></p> 
@@ -175,6 +177,7 @@
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
         <div class="row">
+        		<img src="img/about.png">
                 <h2>About</h2>
 					<div class="row" style="padding-top:20px">
 					 	<div class="col-md-8 col-md-offset-2">
