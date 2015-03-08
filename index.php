@@ -127,7 +127,7 @@
          </div>
 		 <div class="row">
 		 	<div class="col-md-12">
-                 	<p>
+                 	<h3>
                     	Q: How do you pronounce your last name? <br>
 						A: As if it were an exclamation of disgust. <br><br>
 						Q: Are you that guy who writes books and columns about business? <br>
@@ -144,7 +144,7 @@
 						A: <a href="http://www.cristoforomagliozzi.com">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com">his latest</a>.<br><br>
 						Q: Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
 						A: I could ask you the same thing.<br><br>
-					</p>
+					</h3>
 		 	</div>
 		</div>
     </section>
@@ -176,7 +176,10 @@
                     <p><img src="img/99invisible.jpg" alt="99% Invisible"></p> 
                     <p>99% Invisible. “Tunnel 57.”</p>
                     <div>
-	                    <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/161524274&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=false&amp;show_reposts=false&amp;visual=true&amp;color=#fff&amp;theme_color=#fff&amp;font="Alegreya"&amp;show_artwork=false"></iframe>
+	                    <audio controls>
+	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
+	                    	Your browser does not support the audio element. 
+	                    </audio>
                     </div>
                     <p>KCRW's UnFictional. “Bookbinder.”</p>
                     <p>ABC's Radiotonic. “Living by the Book.”</p>
@@ -205,7 +208,7 @@
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-            <p style="text-center">Copyright &copy; Daniel A. Gross 2015</p>
+            <h3 style="text-center">Copyright &copy; Daniel A. Gross 2015</h3>
         </div>
     </footer>
 
