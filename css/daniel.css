@@ -99,7 +99,7 @@ a:focus {
 }
 
 .navbar-custom .navbar-brand:focus {
-    outline: 0;
+    outline: 1;
 }
 
 .navbar-custom .navbar-brand .navbar-toggle {
@@ -110,11 +110,11 @@ a:focus {
 
 .navbar-custom .navbar-brand .navbar-toggle:focus,
 .navbar-custom .navbar-brand .navbar-toggle:active {
-    outline: 0;
+    outline: 1;
 }
 
 .navbar-custom a {
-    color: #fff;
+    color: #000;
 }
 
 .navbar-custom .nav li a {
@@ -207,6 +207,15 @@ a:focus {
     .intro .intro-body .intro-text {
         font-size: 26px;
     }
+}
+
+
+#top{
+	background-image: url('/img/top.png');
+}
+
+#top:hover{
+	background-image: url('/img/toph.png');
 }
 
 .btn-about {
