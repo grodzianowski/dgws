@@ -81,20 +81,10 @@
                         <a href="#about" class="btn btn-enter page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-
-    <!-- About Section -->
-    <section id="about" class="container content-section text-center">
-        <div class="row">
-                <h2>About</h2>
-                <h3>Daniel A. Gross writes and makes radio.</h3>
+                        <h3>Daniel A. Gross writes and makes radio.</h3>
                 <div class="col-md-12">
                 	<!--First Column of Links-->
-                	<div class="row">
+                	<div class="row" style="float">
 		                <div class="col-md-6" style="text-align:left"> 
 		                <ul>
 		               	 <li> <a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html">Newsweek</a></li>
@@ -125,7 +115,18 @@
 		                </div>
                 	</div>
          </div>
-		 <div class="row" style="padding-top:20px">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+                <h2>About</h2>
+         <div class="row" style="padding-top:20px">
 		 	<div class="col-md-12-offset-2">
                  	<h3 style="text-align:left">
                     	Q: How do you pronounce your last name? <br>
