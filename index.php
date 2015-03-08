@@ -95,28 +95,32 @@
                 <div class="col-lg-12">
                 	<!--First Column of Links-->
 	                <div class="col-lg-6"> 
-	                Newsweek<br>
-	                Nautilus Magazine<br>
-	                The Washington Post<br>
-	                Smithsonian.com<br>
-	                The Big Roundtable<br>
-	                The Atlantic Online<br>
-	                Guardian Science<br>
-	                Road to Paris<br>
-	                The Toast<br>
+	                <ul>
+	               	 <li> <a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html">Newsweek</a><br></li>
+				   	 <li> <a href="http://nautil.us/issue/16/nothingness/this-is-your-brain-on-silence">Nautilus Magazine</a></li><br> 
+				   	 <li> <a href="http://www.washingtonpost.com/national/health-science/you-wont-believe-how-old-that-kitty-litter-is/2015/02/02/9ecac9ea-a1b4-11e4-903f-9f2faf7cd9fe_story.html">The Washington Post</a></li><br> 
+	                 <li> <a href="http://www.smithsonianmag.com/ist/?next=/author/daniel-gross/">Smithsonian.com</a></li><br> 
+	                 <li> <a href="http://www.thebigroundtable.com/stories/latter-day-saint/">The Big Roundtable</a></li><br>
+	                 <li> <a href="http://www.theatlantic.com/daniel-gross/">The Atlantic Online</a></li><br> 
+	                 <li> <a href="http://www.theguardian.com/science/the-h-word/2014/jun/02/caliche-great-war-first-world-war-conflict-mineral">Guardian Science</a></li><br> 
+	                 <li> <a href="http://roadtoparis.info/2014/12/04/el-nino-mystery-pink-waters-scientists/">Road to Paris</a></li><br>
+	                 <li> <a href="http://the-toast.net/2014/04/04/testing-waters-mormon-feminists/">The Toast</a></li><br> 
+	                </ul>
 	                </div>
 	                
 	                <!--Second Column of Links-->
 	                <div class="col-lg-6 col-lg-offset-6"> 
-	                99% Invisible
-	                KCRW's UnFictional
-	                ABC's Radiotronic
-	                WGBH's Innovation Hub
-	                Rendered Radio (Destination DIY)
-	                Distillations
-	                PRX Remix
-					KALW's The Spot
-	                Re:Sound
+	                 <ul>
+						 <li><a href="http://99percentinvisible.org/episode/tunnel-57/">99% Invisible</a></li><br>
+						 <li><a href="">NPR's All Things Considered</a></li><br>
+						 <li><a href="http://www.kcrw.com/news-culture/shows/unfictional/a-need-to-build">KCRW's UnFictional</a></li><br>
+						 <li><a href="">ABC's Radiotronic</a></li><br>
+						 <li><a href="">WGBH's Innovation Hub</a></li><br>
+						 <li><a href="http://www.maximumfun.org/rendered/destination-everything-instrument">Rendered Radio (Destination DIY)</a></li><br>
+						 <li><a href="http://www.chemheritage.org/discover/media/distillations/195-trash-talk-the-persistence-of-waste.aspx">Distillations</a></li><br>
+						 <li><a href="https://beta.prx.org/stories/68948">PRX Remix</a></li><br>
+						 <li><a href="http://www.thirdcoastfestival.org/library/1560-re-sound-188-the-tight-spaces-show"> Re:Sound</a></li><br>
+	                 </ul>
 	                </div>
          </div>
 		 <div class="row">
