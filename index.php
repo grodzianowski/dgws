@@ -125,9 +125,10 @@
 		                </div>
                 	</div>
          </div>
+         <br> <br>
 		 <div class="row">
 		 	<div class="col-md-12">
-                 	<h3>
+                 	<h3 style="text-align:left">
                     	Q: How do you pronounce your last name? <br>
 						A: As if it were an exclamation of disgust. <br><br>
 						Q: Are you that guy who writes books and columns about business? <br>
@@ -208,7 +209,7 @@
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-            <h3 style="text-center">Copyright &copy; Daniel A. Gross 2015</h3>
+            <h4 style="text-center">Copyright &copy; Daniel A. Gross 2015</h4>
         </div>
     </footer>
 
