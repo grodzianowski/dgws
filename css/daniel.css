@@ -210,14 +210,6 @@ a:focus {
 }
 
 
-#top{
-	background-image: url('/img/top.png');
-}
-
-#top:hover{
-	background-image: url('/img/toph.png');
-}
-
 .btn-about {
     width: 55px;
     height: 47px;
