@@ -95,7 +95,7 @@
                 <div class="col-md-12">
                 	<!--First Column of Links-->
                 	<div class="row">
-		                <div class="col-md-6"> 
+		                <div class="col-md-6" style="text-align:left"> 
 		                <ul>
 		               	 <li> <a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html">Newsweek</a></li>
 					   	 <li> <a href="http://nautil.us/issue/16/nothingness/this-is-your-brain-on-silence">Nautilus Magazine</a></li>
@@ -110,7 +110,7 @@
 		                </div>
 		                
 		                <!--Second Column of Links-->
-		                <div class="col-md-offset-6"> 
+		                <div class="col-md-offset-6" style="text-align:left"> 
 		                 <ul>
 							 <li><a href="http://99percentinvisible.org/episode/tunnel-57/">99% Invisible</a></li>
 							 <li>NPR's All Things Considered</li>
@@ -125,9 +125,8 @@
 		                </div>
                 	</div>
          </div>
-         <br> <br>
-		 <div class="row">
-		 	<div class="col-md-12">
+		 <div class="row" style="padding-top:20px">
+		 	<div class="col-md-12-offset-2">
                  	<h3 style="text-align:left">
                     	Q: How do you pronounce your last name? <br>
 						A: As if it were an exclamation of disgust. <br><br>
