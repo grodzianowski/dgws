@@ -34,7 +34,7 @@ h6 {
     margin: 0 0 35px;
     text-transform: none;
     font-family: Alegreya, serif;
-    font-weight: 700;
+    font-weight: normal;
     letter-spacing: 1px;
 }
 
@@ -75,7 +75,7 @@ a:focus {
 }
 
 .light {
-    font-weight: 400;
+    font-weight: normal;
 }
 
 .navbar-custom {
@@ -201,8 +201,8 @@ a:focus {
 }
 
 .btn-enter {
-    width: 140px;
-    height: 140px;
+    width: 55px;
+    height: 47px;
     margin-top: 15px;
     /*padding: 7px 16px;*/
     border: none;
@@ -316,7 +316,7 @@ a:focus {
     border-radius: 0;
     text-transform: uppercase;
     font-family: Alegreya, serif;
-    font-weight: 400;
+    font-weight: normal;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;

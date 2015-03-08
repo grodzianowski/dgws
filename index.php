@@ -10,7 +10,7 @@
     <meta name="keywords" content="writer, radio, journalist"
     <meta name="author" content="Cristoforo Magliozzi">
 
-    <title>Daniel Gross - Journalist</title>
+    <title>Daniel A. Gross — writes & makes radio</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -52,16 +52,13 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
                         <a class="page-scroll" href="#writing">Writing</a>
                     </li>
                      <li>
                         <a class="page-scroll" href="#radio">Radio</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#about">About</a>
                     </li>
                 </ul>
             </div>
@@ -78,13 +75,10 @@
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Daniel A.Gross</h1>
                         <!--<p class="intro-text">@readwriteradio</p>-->
-                        <a href="#about" class="btn btn-enter page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
-                        </a>
-                        <h3>Daniel A. Gross writes and makes radio.</h3>
+                        <h3><a href="#writing">writes<i class="fa fa-angle-double-down animated"></i></a> and <a href="#radio">makes radio<i class="fa fa-angle-double-down animated"></i></a>.</h3>
                 <div class="col-md-12">
                 	<!--First Column of Links-->
-                	<div class="row" style="float">
+                	<div class="row" style="float: none; margin: 0 auto;" >
 		                <div class="col-md-6" style="text-align:left"> 
 		                <ul>
 		               	 <li> <a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html">Newsweek</a></li>
@@ -100,7 +94,7 @@
 		                </div>
 		                
 		                <!--Second Column of Links-->
-		                <div class="col-md-offset-6" style="text-align:left"> 
+		                <div class="col-md-offset-6" style="text-align:right"> 
 		                 <ul>
 							 <li><a href="http://99percentinvisible.org/episode/tunnel-57/">99% Invisible</a></li>
 							 <li>NPR's All Things Considered</li>
@@ -114,6 +108,15 @@
 		                 </ul>
 		                </div>
                 	</div>
+                	<a href="#writing" class="btn btn-enter page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+                    <a href="#about" class="btn btn-enter page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+						</a>
+                	<a href="#radio" class="btn btn-enter page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
          </div>
 
                     </div>
@@ -121,34 +124,6 @@
             </div>
         </div>
     </header>
-
-    <!-- About Section -->
-    <section id="about" class="container content-section text-center">
-        <div class="row">
-                <h2>About</h2>
-         <div class="row" style="padding-top:20px">
-		 	<div class="col-md-12-offset-2">
-                 	<h3 style="text-align:left">
-                    	Q: How do you pronounce your last name? <br>
-						A: As if it were an exclamation of disgust. <br><br>
-						Q: Are you that guy who writes books and columns about business? <br>
-						A: Nope, sorry. That would be Daniel Gross (<a href="https://twitter.com/grossdm">@grossdm</a>). <br><br>
-						Q: Can I write to you with questions, comments, and hate mail? <br>
-						A: Please do. Email me or find me on Twitter  <a href="https://twitter.com/readwriteradio">@readwriteradio</a>. <br><br>
-						Q: What kind of a name is “Gross”? <br>
-						A: Aren't you a little old for jokes about people's names?<br><br>
-						Q: I guess so. Will you write for my magazine or produce radio for my show? <br>
-						A: I'll certaintly think about it if you send me a note. Nice of you to ask. <br><br>
-						Q: But really, what kind of a name is that? <br>
-						A: (…)<br><br>
-						Q: Your silence unsettles me. Who designed your website? <br>
-						A: <a href="http://www.cristoforomagliozzi.com">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com">his latest</a>.<br><br>
-						Q: Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
-						A: I could ask you the same thing.<br><br>
-					</h3>
-		 	</div>
-		</div>
-    </section>
 
     <!-- Writing Section -->
     <section id="writing" class="content-section text-center">
@@ -189,23 +164,48 @@
             </div>
         </div>
     </section>
-
-    <!-- Contact Section -->
-    <section id="contact" class="container content-section text-center">
+    
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Daniel A. Gross</h2>
-                <p>Blurb about contacting</p>
-                <p><a href="mailto:daniel.alexander.gross@gmail.com">Email Me</a>
-                </p>
-                <ul class="list-inline banner-social-buttons">
-                    <li>
-                        <a href="https://twitter.com/readwriteradio" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </section>
+                <h2>About</h2>
+					<div class="row" style="padding-top:20px">
+					 	<div class="col-md-12-offset-2">
+			                 	<h3 style="text-align:left">
+			                    	Q: How do you pronounce your last name? <br>
+									A: As if it were an exclamation of disgust. <br><br>
+									Q: Are you that guy who writes books and columns about business? <br>
+									A: Nope, sorry. That would be Daniel Gross (<a href="https://twitter.com/grossdm">@grossdm</a>). <br><br>
+									Q: Can I write to you with questions, comments, and hate mail? <br>
+									A: Please do. Email me or find me on Twitter  <a href="https://twitter.com/readwriteradio">@readwriteradio</a>. <br><br>
+									Q: What kind of a name is “Gross”? <br>
+									A: Aren't you a little old for jokes about people's names?<br><br>
+									Q: I guess so. Will you write for my magazine or produce radio for my show? <br>
+									A: I'll certainly think about it if you send me a note. Nice of you to ask. <br><br>
+									Q: But really, what kind of a name is that? <br>
+									A: (…)<br><br>
+									Q: Your silence unsettles me. Who designed your website? <br>
+									A: <a href="http://www.cristoforomagliozzi.com">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com">his latest</a>.<br><br>
+									Q: Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
+									A: I could ask you the same thing.<br><br>
+								</h3>
+					 	</div>
+
+			        <div class="row">
+			            <div class="col-lg-8 col-lg-offset-2">
+			                <h2>Contact Daniel A. Gross</h2>
+			                <p>Blurb about contacting</p>
+			                <p><a href="mailto:daniel.alexander.gross@gmail.com">Email Me</a>
+			                </p>
+			                <ul class="list-inline banner-social-buttons">
+			                    <li>
+			                        <a href="https://twitter.com/readwriteradio" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+			                    </li>
+			                </ul>
+			         </div>
+     </div>
+ </section>
+    
     <!-- Footer -->
     <footer>
         <div class="container text-center">
