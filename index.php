@@ -159,28 +159,32 @@
                     <h2>Radio</h2>
                     <h4>And you can hear my stories on public radio shows and podcasts.</h4>
                     <p><img src="img/99invisible.jpg" alt="99% Invisible"></p> 
-                    <p>99% Invisible. “Tunnel 57.”</p>
+                    <p>99% Invisible. “Tunnel 57.”
                     <div>
 	                    <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                    </audio>
                     </div>
-                    <p>KCRW's UnFictional. “Bookbinder.”</p>
+                    </p>
+                    <p>KCRW's UnFictional. “Bookbinder.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-                    <p>ABC's Radiotonic. “Living by the Book.”</p>
+	                </p>
+                    <p>ABC's Radiotonic. “Living by the Book.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-                    <p>Rendered Radio. “Everything is an Instrument.”</p>
+	                </p>
+                    <p>Rendered Radio. “Everything is an Instrument.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
+	                </p>
                 </div>
             </div>
         </div>
