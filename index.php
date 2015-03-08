@@ -167,8 +167,20 @@
 	                    </audio>
                     </div>
                     <p>KCRW's UnFictional. “Bookbinder.”</p>
+                    <audio controls>
+	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
+	                    	Your browser does not support the audio element. 
+	                </audio>
                     <p>ABC's Radiotonic. “Living by the Book.”</p>
+                    <audio controls>
+	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
+	                    	Your browser does not support the audio element. 
+	                </audio>
                     <p>Rendered Radio. “Everything is an Instrument.”</p>
+                    <audio controls>
+	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
+	                    	Your browser does not support the audio element. 
+	                </audio>
                 </div>
             </div>
         </div>
