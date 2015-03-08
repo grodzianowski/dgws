@@ -78,7 +78,7 @@
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Daniel A.Gross</h1>
                         <!--<p class="intro-text">@readwriteradio</p>-->
-                        <h3><a href="#writing">writes<i class="fa fa-angle-double-down animated"></i></a> and <a href="#radio">makes radio. <br><br><i class="fa fa-angle-double-down animated"></i></a><a href="#about" class="btn btn-about page-scroll">
+                        <h3><a href="#writing">writes<i class="fa fa-angle-double-down animated"></i></a> and <a href="#radio">makes radio</a>.<br><br><i class="fa fa-angle-double-down animated"></i><a href="#about" class="btn btn-about page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
 						</a></h3>
                 <div class="col-md-12" style="float: none; margin: 0 auto;">

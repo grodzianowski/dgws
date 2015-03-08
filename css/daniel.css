@@ -90,7 +90,8 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: none;
     font-family: Alegreya, serif;
-    background-color: #fff;
+    background-color: #000;
+    color:#fff;
 }
 
 .navbar-custom .navbar-brand {
@@ -104,7 +105,7 @@ a:focus {
 .navbar-custom .navbar-brand .navbar-toggle {
     padding: 4px 6px;
     font-size: 16px;
-    color: #000;
+    color: #fff;
 }
 
 .navbar-custom .navbar-brand .navbar-toggle:focus,
@@ -113,7 +114,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #000;
+    color: #fff;
 }
 
 .navbar-custom .nav li a {
@@ -132,6 +133,7 @@ a:focus {
 .navbar-custom .nav li a:active {
     outline: 0;
     background-color: transparent;
+    color: #000;
 }
 
 .navbar-custom .nav li.active {
