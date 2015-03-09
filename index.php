@@ -144,9 +144,9 @@
                 	<h2>Writing</h2>
                 	<hr><br><br>
                     <h4>You can find some of my writing on newsstands.</h4>
-                    <p><img src="img/newsweek.jpg" alt="newsweek article" style="width:730px"></p>
+                    <p><a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html"><img src="img/newsweek.jpg" alt="newsweek article" style="width:730px"></a></p>
                     <h4> Once in a while my stories are picked up by venues like Longreads, Next Draft, the Morning News, and, uh, Australian and Irish radio. </h4>
-                    <p><img src="img/longreads.jpg" alt="longreads" style="width:730px"></p>
+                    <p><a href="https://longreads.com/search/?q=Daniel%20A.%20Gross"><img src="img/longreads.jpg" alt="longreads" style="width:730px"></a></p>
                     <h4> I curate stuff, too. Mostly on <a href="https://twitter.com/readwriteradio">Twitter</a>, but sometimes <a href="https://longreads.com/search/?q=Daniel%20A.%20Gross">elsewhere</a>.
                     </h4>
                 </div>
@@ -163,7 +163,7 @@
                     <h2>Radio</h2>
                     <hr><br><br>
                     <h4>And you can hear my stories on public radio shows and podcasts.</h4>
-                    <p><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px"></p> 
+                    <p><a href="http://99percentinvisible.org/episode/tunnel-57/"><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px"></a></p> 
                     <p>99% Invisible. “Tunnel 57.”
                     <div>
 	                    <audio controls>
