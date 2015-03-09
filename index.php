@@ -46,7 +46,6 @@
                     <!-- Hidden li included to remove active class from about link when scrolled up past about section-->
                     <li class="hidden">
                         <a href="#page-top"></a>
-                        <img src="img/logo.png">
                     </li>
                     <li>
                         <a class="page-scroll" href="#writing">Writing</a>
@@ -85,11 +84,18 @@
                 	<!--First Column of Links-->
                 
                 	<div class="row" style="float: none; margin: 0 auto;" >
-		                <div class="col-md-6" style="text-align:left">
-		                <a href="#writing" class="btn btn-writes page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
+                	
+                		<div class="col-md-6" style="text-align:left">
+                		<a href="#writing" class="btn btn-writes page-scroll">
+                        <i class="fa fa-angle-double-down animated"></i>
                         </a> 
-                         <hr>
+                		</div>
+                      
+                		<hr>
+                		
+		                <div class="col-md-6" style="text-align:left">
+		                
+						
 		                <ul>
 		               	 <li> <a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html">Newsweek</a></li>
 					   	 <li> <a href="http://nautil.us/issue/16/nothingness/this-is-your-brain-on-silence">Nautilus Magazine</a></li>
@@ -196,7 +202,6 @@
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
         <div class="row">
-        		<img src="img/logo.png">
                 <h2>About</h2>
 					<div class="row" style="padding-top:20px">
 					<hr><br><br>
