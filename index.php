@@ -46,6 +46,7 @@
                     <!-- Hidden li included to remove active class from about link when scrolled up past about section-->
                     <li class="hidden">
                         <a href="#page-top"></a>
+                        <img src="img/logo.png">
                     </li>
                     <li>
                         <a class="page-scroll" href="#writing">Writing</a>
@@ -192,7 +193,7 @@
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
         <div class="row">
-        		<img src="img/enter.png">
+        		<img src="img/logo.png">
                 <h2>About</h2>
 					<div class="row" style="padding-top:20px">
 					 	<div class="col-md-8 col-md-offset-2">
