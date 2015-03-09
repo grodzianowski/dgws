@@ -33,6 +33,14 @@ ul{
 	-webkit-padding-start: 0px;
 }
 
+li a{
+	color:#000;
+}
+
+li a:hover{
+	color:red;
+}
+
 h1,
 h2,
 h3,
