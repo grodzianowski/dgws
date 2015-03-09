@@ -80,6 +80,7 @@
                         <h3><a href="#writing">writes<i class="fa fa-angle-double-down animated"></i></a> and <a href="#radio">makes radio</a>.<br><br><i class="fa fa-angle-double-down animated"></i><a href="#about" class="btn btn-about page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
 						</a></h3>
+						<br><br>
                 <div class="col-md-12" style="float: none; margin: 0 auto;">
                 	<!--First Column of Links-->
                 
@@ -97,15 +98,15 @@
 		                
 						
 		                <ul>
-		               	 <li> <a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html">Newsweek</a></li>
-					   	 <li> <a href="http://nautil.us/issue/16/nothingness/this-is-your-brain-on-silence">Nautilus Magazine</a></li>
-					   	 <li> <a href="http://www.washingtonpost.com/national/health-science/you-wont-believe-how-old-that-kitty-litter-is/2015/02/02/9ecac9ea-a1b4-11e4-903f-9f2faf7cd9fe_story.html">The Washington Post</a></li>
-		                 <li> <a href="http://www.smithsonianmag.com/ist/?next=/author/daniel-gross/">Smithsonian.com</a></li>
-		                 <li> <a href="http://www.thebigroundtable.com/stories/latter-day-saint/">The Big Roundtable</a></li>
-		                 <li> <a href="http://www.theatlantic.com/daniel-gross/">The Atlantic Online</a></li>
-		                 <li> <a href="http://www.theguardian.com/science/the-h-word/2014/jun/02/caliche-great-war-first-world-war-conflict-mineral">Guardian Science</a></li> 
-		                 <li> <a href="http://roadtoparis.info/2014/12/04/el-nino-mystery-pink-waters-scientists/">Road to Paris</a></li>
-		                 <li> <a href="http://the-toast.net/2014/04/04/testing-waters-mormon-feminists/">The Toast</a></li>
+		               	 <li> <a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html" target="_blank">Newsweek</a></li>
+					   	 <li> <a href="http://nautil.us/issue/16/nothingness/this-is-your-brain-on-silence" target="_blank">Nautilus Magazine</a></li>
+					   	 <li> <a href="http://www.washingtonpost.com/national/health-science/you-wont-believe-how-old-that-kitty-litter-is/2015/02/02/9ecac9ea-a1b4-11e4-903f-9f2faf7cd9fe_story.html" target="_blank">The Washington Post</a></li>
+		                 <li> <a href="http://www.smithsonianmag.com/ist/?next=/author/daniel-gross/" target="_blank">Smithsonian.com</a></li>
+		                 <li> <a href="http://www.thebigroundtable.com/stories/latter-day-saint/" target="_blank">The Big Roundtable</a></li>
+		                 <li> <a href="http://www.theatlantic.com/daniel-gross/" target="_blank">The Atlantic Online</a></li>
+		                 <li> <a href="http://www.theguardian.com/science/the-h-word/2014/jun/02/caliche-great-war-first-world-war-conflict-mineral" target="_blank">Guardian Science</a></li> 
+		                 <li> <a href="http://roadtoparis.info/2014/12/04/el-nino-mystery-pink-waters-scientists/" target="_blank">Road to Paris</a></li>
+		                 <li> <a href="http://the-toast.net/2014/04/04/testing-waters-mormon-feminists/" target="_blank">The Toast</a></li>
 		                </ul>
 		                </div>
 		                
@@ -116,15 +117,15 @@
                          </a>
                
 		                 <ul>
-							 <li><a href="http://99percentinvisible.org/episode/tunnel-57/">99% Invisible</a></li>
+							 <li><a href="http://99percentinvisible.org/episode/tunnel-57/" target="_blank">99% Invisible</a></li>
 							 <li>NPR's All Things Considered</li>
-							 <li><a href="http://www.kcrw.com/news-culture/shows/unfictional/a-need-to-build">KCRW's UnFictional</a></li>
+							 <li><a href="http://www.kcrw.com/news-culture/shows/unfictional/a-need-to-build" target="_blank">KCRW's UnFictional</a></li>
 							 <li>ABC's Radiotronic</li>
 							 <li>WGBH's Innovation Hub</li>
-							 <li><a href="http://www.maximumfun.org/rendered/destination-everything-instrument">Rendered Radio (Destination DIY)</a></li>
-							 <li><a href="http://www.chemheritage.org/discover/media/distillations/195-trash-talk-the-persistence-of-waste.aspx">Distillations</a></li>
-							 <li><a href="https://beta.prx.org/stories/68948">PRX Remix</a></li>
-							 <li><a href="http://www.thirdcoastfestival.org/library/1560-re-sound-188-the-tight-spaces-show"> Re:Sound</a></li>
+							 <li><a href="http://www.maximumfun.org/rendered/destination-everything-instrument" target="_blank">Rendered Radio (Destination DIY)</a></li>
+							 <li><a href="http://www.chemheritage.org/discover/media/distillations/195-trash-talk-the-persistence-of-waste.aspx" target="_blank">Distillations</a></li>
+							 <li><a href="https://beta.prx.org/stories/68948" target="_blank">PRX Remix</a></li>
+							 <li><a href="http://www.thirdcoastfestival.org/library/1560-re-sound-188-the-tight-spaces-show" target="_blank"> Re:Sound</a></li>
 		                 </ul>
 		                </div>
 		             <hr>
@@ -152,8 +153,8 @@
                     <h4>You can find some of my writing on newsstands.</h4>
                     <p><a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html"><img src="img/newsweek.jpg" alt="newsweek article" style="width:730px"></a></p>
                     <h4> Once in a while my stories are picked up by venues like Longreads, Next Draft, the Morning News, and, uh, Australian and Irish radio. </h4>
-                    <p><a href="https://longreads.com/search/?q=Daniel%20A.%20Gross"><img src="img/longreads.jpg" alt="longreads" style="width:730px"></a></p>
-                    <h4> I curate stuff, too. Mostly on <a href="https://twitter.com/readwriteradio">Twitter</a>, but sometimes <a href="https://longreads.com/search/?q=Daniel%20A.%20Gross">elsewhere</a>.
+                    <p><a href="https://longreads.com/search/?q=Daniel%20A.%20Gross"><img src="img/longreads.jpg" alt="longreads" style="width:730px" target="_blank"></a></p>
+                    <h4> I curate stuff, too. Mostly on <a href="https://twitter.com/readwriteradio">Twitter</a>, but sometimes <a href="https://longreads.com/search/?q=Daniel%20A.%20Gross" target="_blank">elsewhere</a>.
                     </h4>
                 </div>
             </div>
@@ -169,7 +170,7 @@
                     <h2>Radio</h2>
                     <hr><br><br>
                     <h4>And you can hear my stories on public radio shows and podcasts.</h4>
-                    <p><a href="http://99percentinvisible.org/episode/tunnel-57/"><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px"></a></p> 
+                    <p><a href="http://99percentinvisible.org/episode/tunnel-57/"><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px" target="_blank"></a></p> 
                     <p>99% Invisible. “Tunnel 57.”
 	                    <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
@@ -204,15 +205,15 @@
         <div class="row">
                 <h2>About</h2>
 					<div class="row" style="padding-top:20px">
-					<hr><br><br>
 					 	<div class="col-md-8 col-md-offset-2">
+					 	<hr><br><br>
 			                 	<h4 style="text-align:left">
 			                    	Q: How do you pronounce your last name? <br>
 									A: As if it were an exclamation of disgust. <br><br>
 									Q: Are you that guy who writes books and columns about business? <br>
-									A: Nope, sorry. That would be Daniel Gross (<a href="https://twitter.com/grossdm">@grossdm</a>). <br><br>
+									A: Nope, sorry. That would be Daniel Gross (<a href="https://twitter.com/grossdm" target="_blank">@grossdm</a>). <br><br>
 									Q: Can I write to you with questions, comments, and hate mail? <br>
-									A: Please do. <a href="mailto:daniel.alexander.gross@gmail.com">Email me</a> or find me on Twitter  <a href="https://twitter.com/readwriteradio">@readwriteradio</a>. <br><br>
+									A: Please do. <a href="mailto:daniel.alexander.gross@gmail.com">Email me</a> or find me on Twitter  <a href="https://twitter.com/readwriteradio" target="_blank">@readwriteradio</a>. <br><br>
 									Q: What kind of a name is “Gross”? <br>
 									A: Aren't you a little old for jokes about people's names?<br><br>
 									Q: I guess so. Will you write for my magazine or produce radio for my show? <br>
@@ -220,7 +221,7 @@
 									Q: But really, what kind of a name is that? <br>
 									A: (…)<br><br>
 									Q: Your silence unsettles me. Who designed your website? <br>
-									A: <a href="http://www.cristoforomagliozzi.com">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com">his latest</a>.<br><br>
+									A: <a href="http://www.cristoforomagliozzi.com" target="_blank">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com" target="_blank">his latest</a>.<br><br>
 									Q: Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
 									A: I could ask you the same thing.<br><br>
 								</h4>
