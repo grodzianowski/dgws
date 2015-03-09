@@ -83,6 +83,7 @@
 						</a></h3>
                 <div class="col-md-12" style="float: none; margin: 0 auto;">
                 	<!--First Column of Links-->
+                	<hr>
                 	<div class="row" style="float: none; margin: 0 auto;" >
 		                <div class="col-md-6" style="text-align:left">
 		                <a href="#writing" class="btn btn-writes page-scroll">
@@ -117,7 +118,7 @@
 							 <li><a href="https://beta.prx.org/stories/68948">PRX Remix</a></li>
 							 <li><a href="http://www.thirdcoastfestival.org/library/1560-re-sound-188-the-tight-spaces-show"> Re:Sound</a></li>
 		                 </ul>
-		            
+		            <hr>
                        
 		                </div>
                 	</div>
@@ -139,6 +140,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                 	<img src="img/writes.png">
                 	<h2>Writing</h2>
+                	<hr>
                     <h4>You can find some of my writing on newsstands.</h4>
                     <p><img src="img/newsweek.jpg" alt="newsweek article" style="width:730px"></p>
                     <h4> Once in a while my stories are picked up by venues like Longreads, Next Draft, the Morning News, and, uh, Australian and Irish radio. </h4>
@@ -157,6 +159,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                 	<img src="img/makesradio.png">
                     <h2>Radio</h2>
+                    <hr>
                     <h4>And you can hear my stories on public radio shows and podcasts.</h4>
                     <p><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px"></p> 
                     <p>99% Invisible. “Tunnel 57.”
@@ -195,6 +198,7 @@
         <div class="row">
         		<img src="img/logo.png">
                 <h2>About</h2>
+                <hr>
 					<div class="row" style="padding-top:20px">
 					 	<div class="col-md-8 col-md-offset-2">
 			                 	<h4 style="text-align:left">
