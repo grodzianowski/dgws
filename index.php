@@ -83,12 +83,13 @@
 						</a></h3>
                 <div class="col-md-12" style="float: none; margin: 0 auto;">
                 	<!--First Column of Links-->
-                	<hr>
+                
                 	<div class="row" style="float: none; margin: 0 auto;" >
 		                <div class="col-md-6" style="text-align:left">
 		                <a href="#writing" class="btn btn-writes page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a> 
+                         <hr>
 		                <ul>
 		               	 <li> <a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html">Newsweek</a></li>
 					   	 <li> <a href="http://nautil.us/issue/16/nothingness/this-is-your-brain-on-silence">Nautilus Magazine</a></li>
@@ -107,6 +108,7 @@
 		                <a href="#radio" class="btn btn-makesradio page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                          </a>
+               
 		                 <ul>
 							 <li><a href="http://99percentinvisible.org/episode/tunnel-57/">99% Invisible</a></li>
 							 <li>NPR's All Things Considered</li>
@@ -118,9 +120,9 @@
 							 <li><a href="https://beta.prx.org/stories/68948">PRX Remix</a></li>
 							 <li><a href="http://www.thirdcoastfestival.org/library/1560-re-sound-188-the-tight-spaces-show"> Re:Sound</a></li>
 		                 </ul>
-		            <hr>
-                       
 		                </div>
+		             <hr>
+                       
                 	</div>
                 	
                   
@@ -140,7 +142,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                 	<img src="img/writes.png">
                 	<h2>Writing</h2>
-                	<hr>
+                	<hr><br><br>
                     <h4>You can find some of my writing on newsstands.</h4>
                     <p><img src="img/newsweek.jpg" alt="newsweek article" style="width:730px"></p>
                     <h4> Once in a while my stories are picked up by venues like Longreads, Next Draft, the Morning News, and, uh, Australian and Irish radio. </h4>
@@ -159,7 +161,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                 	<img src="img/makesradio.png">
                     <h2>Radio</h2>
-                    <hr>
+                    <hr><br><br>
                     <h4>And you can hear my stories on public radio shows and podcasts.</h4>
                     <p><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px"></p> 
                     <p>99% Invisible. “Tunnel 57.”
@@ -198,7 +200,7 @@
         <div class="row">
         		<img src="img/logo.png">
                 <h2>About</h2>
-                <hr>
+                <hr><br><br>
 					<div class="row" style="padding-top:20px">
 					 	<div class="col-md-8 col-md-offset-2">
 			                 	<h4 style="text-align:left">
