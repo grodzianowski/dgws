@@ -35,6 +35,7 @@ ul{
 
 li a{
 	color:#000;
+	target: "_blank";
 }
 
 li a:hover{
@@ -221,7 +222,8 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 50px;
+        font-size: 58px;
+        margin-bottom: 10px;
     }
 
     .intro .intro-body .intro-text {
