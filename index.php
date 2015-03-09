@@ -165,12 +165,10 @@
                     <h4>And you can hear my stories on public radio shows and podcasts.</h4>
                     <p><a href="http://99percentinvisible.org/episode/tunnel-57/"><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px"></a></p> 
                     <p>99% Invisible. “Tunnel 57.”
-                    <div>
 	                    <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                    </audio>
-                    </div>
                     </p>
                     <p>KCRW's UnFictional. “Bookbinder.”
                     <audio controls>
@@ -200,8 +198,8 @@
         <div class="row">
         		<img src="img/logo.png">
                 <h2>About</h2>
-                <hr><br><br>
 					<div class="row" style="padding-top:20px">
+					<hr><br><br>
 					 	<div class="col-md-8 col-md-offset-2">
 			                 	<h4 style="text-align:left">
 			                    	Q: How do you pronounce your last name? <br>
