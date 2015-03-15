@@ -127,6 +127,7 @@
 		             <hr>
                        
                 	</div>
+                	<br><br>
                 	<h4> I aim to tell true stories that dive deep—carefully crafted portraits of people and ideas. Radio documentary and literary nonfiction are close to my heart.</h4>
                   
                 	
@@ -145,6 +146,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                 	<img src="img/writes.png">
                 	<h2>Writing</h2>
+                	
                 	<hr><br><br>
                     <h4>You can find my writing online and on newsstands.</h4>
                     <p><a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html" target="_blank"><img src="img/newsweek.jpg" alt="newsweek article" style="width:730px"></a></p>
@@ -172,35 +174,35 @@
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                    </audio>
-	                    Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.
+	                    <h5> Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</h5>
                     </p>
                     <p>KCRW's UnFictional. “Bookbinder.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                Producer: Daniel A. Gross. Scoring: Bob Carlson.
+	                <h5>Producer: Daniel A. Gross. Scoring: Bob Carlson.</h5>
 	                </p>
                     <p>ABC's Radiotonic. “Living by the Book.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                Producer: Daniel A. Gross.
+	                <h5>Producer: Daniel A. Gross.</h5>
 	                </p>
                     <p>Rendered Radio. “Everything is an Instrument.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                Producer: Daniel A. Gross. 
+	                <h5>Producer: Daniel A. Gross.</h5>
 	                </p>
 	                <p>“Record of Birth.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                Producer: Daniel A. Gross. 
+	                <h5>Producer: Daniel A. Gross.</h5>
 	                </p>
                 </div>
             </div>
