@@ -83,8 +83,6 @@
 						<br><br>
                 <div class="col-md-12" style="float: none; margin: 0 auto;">
                 	<!--First Column of Links-->
-                	
-                	<h4> I aim to tell true stories that dive deep—carefully crafted portraits of people and ideas. Radio documentary and literary nonfiction are close to my heart.</h4>
                 
                 	<div class="row" style="float: none; margin: 0 auto;" >
                 	
@@ -129,7 +127,7 @@
 		             <hr>
                        
                 	</div>
-                	
+                	<h4> I aim to tell true stories that dive deep—carefully crafted portraits of people and ideas. Radio documentary and literary nonfiction are close to my heart.</h4>
                   
                 	
          </div>

@@ -55,7 +55,15 @@ hr {
 
 h1,
 h2,
-h3,
+h3{
+	margin: 0 0 35px;
+    text-transform: none;
+    font-family: Alegreya, serif;
+    font-weight: normal;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
 h4,
 h5,
 h6 {
@@ -192,6 +200,7 @@ a:focus {
     display: table;
     width: 100%;
     height: auto;
+    margin-top: 100px;
     padding: 50px 0;
     text-align: center;
     color: #000;
