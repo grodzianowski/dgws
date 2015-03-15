@@ -170,39 +170,41 @@
                     <h4>You can hear my audio stories on public radio shows and podcasts.</h4>
                     <p><a href="http://99percentinvisible.org/episode/tunnel-57/"><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px" target="_blank"></a></p> 
                     <p>99% Invisible. “Tunnel 57.”
+	                    
+	                    <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0"> Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</div>
 	                    <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                    </audio>
-	                    <h5> Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</h5>
+	                    
                     </p>
                     <p>KCRW's UnFictional. “Bookbinder.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <h5>Producer: Daniel A. Gross. Scoring: Bob Carlson.</h5>
+	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0"> Producer: Daniel A. Gross. Scoring: Bob Carlson.</div>
 	                </p>
                     <p>ABC's Radiotonic. “Living by the Book.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <h5>Producer: Daniel A. Gross.</h5>
+	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0">Producer: Daniel A. Gross.</div>
 	                </p>
                     <p>Rendered Radio. “Everything is an Instrument.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <h5>Producer: Daniel A. Gross.</h5>
+	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0">Producer: Daniel A. Gross.</div>
 	                </p>
 	                <p>“Record of Birth.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <h5>Producer: Daniel A. Gross.</h5>
+	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0">Producer: Daniel A. Gross.</div>
 	                </p>
                 </div>
             </div>
