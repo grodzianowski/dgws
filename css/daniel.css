@@ -48,8 +48,9 @@ hr {
     margin-bottom: 0.5em;
     margin-left: auto;
     margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
+    border: none;
+    height: 2px;
+    background-color: #999;
 }
 
 h1,
@@ -63,10 +64,11 @@ h6 {
     font-family: Alegreya, serif;
     font-weight: normal;
     letter-spacing: 1px;
+    text-align: left;
 }
 
 p img{
-	border: 2px black solid;
+	border: 2px #999 solid;
 }
 
 p {

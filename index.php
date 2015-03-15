@@ -83,6 +83,8 @@
 						<br><br>
                 <div class="col-md-12" style="float: none; margin: 0 auto;">
                 	<!--First Column of Links-->
+                	
+                	<h4> I aim to tell true stories that dive deep—carefully crafted portraits of people and ideas. Radio documentary and literary nonfiction are close to my heart.</h4>
                 
                 	<div class="row" style="float: none; margin: 0 auto;" >
                 	
@@ -116,7 +118,7 @@
 							 <li><a href="http://99percentinvisible.org/episode/tunnel-57/" target="_blank">99% Invisible</a></li>
 							 <li>NPR's All Things Considered</li>
 							 <li><a href="http://www.kcrw.com/news-culture/shows/unfictional/a-need-to-build" target="_blank">KCRW's UnFictional</a></li>
-							 <li>ABC's Radiotronic</li>
+							 <li>ABC's Radiotonic</li>
 							 <li>WGBH's Innovation Hub</li>
 							 <li><a href="http://www.maximumfun.org/rendered/destination-everything-instrument" target="_blank">Rendered Radio (Destination DIY)</a></li>
 							 <li><a href="http://www.chemheritage.org/discover/media/distillations/195-trash-talk-the-persistence-of-waste.aspx" target="_blank">Distillations</a></li>
@@ -146,11 +148,11 @@
                 	<img src="img/writes.png">
                 	<h2>Writing</h2>
                 	<hr><br><br>
-                    <h4>You can find some of my writing on newsstands.</h4>
-                    <p><a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html"><img src="img/newsweek.jpg" alt="newsweek article" style="width:730px"></a></p>
-                    <h4> Once in a while my stories are picked up by venues like Longreads, Next Draft, the Morning News, and, uh, Australian and Irish radio. </h4>
-                    <p><a href="https://longreads.com/search/?q=Daniel%20A.%20Gross"><img src="img/longreads.jpg" alt="longreads" style="width:730px" target="_blank"></a></p>
-                    <h4> I curate stuff, too. Mostly on <a href="https://twitter.com/readwriteradio">Twitter</a>, but sometimes <a href="https://longreads.com/search/?q=Daniel%20A.%20Gross" target="_blank">elsewhere</a>.
+                    <h4>You can find my writing online and on newsstands.</h4>
+                    <p><a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html" target="_blank"><img src="img/newsweek.jpg" alt="newsweek article" style="width:730px"></a></p>
+                    <h4> Once in a while my stories are picked up by outlets like Longreads, Next Draft, the Morning News, and <a href="http://www.newstalk.ie/player/home/Moncrieff/Highlights_from_Moncrieff/54457/" target="_blank">radio</a> <a href="http://www.abc.net.au/radionational/programs/sundayextra/915-segment/5457380" target="_blank">stations</a>. </h4>
+                    <p><a href="https://longreads.com/search/?q=Daniel%20A.%20Gross" target="_blank"><img src="img/longreads.jpg" alt="longreads" style="width:730px" target="_blank"></a></p>
+                    <h4> When I'm not writing, I <a href="https://twitter.com/readwriteradio">curate</a> true <a href="https://longreads.com/search/?q=Daniel%20A.%20Gross" target="_blank">stories</a>.
                     </h4>
                 </div>
             </div>
@@ -165,31 +167,42 @@
                 	<img src="img/makesradio.png">
                     <h2>Radio</h2>
                     <hr><br><br>
-                    <h4>And you can hear my stories on public radio shows and podcasts.</h4>
+                    <h4>You can hear my audio stories on public radio shows and podcasts.</h4>
                     <p><a href="http://99percentinvisible.org/episode/tunnel-57/"><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px" target="_blank"></a></p> 
                     <p>99% Invisible. “Tunnel 57.”
 	                    <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                    </audio>
+	                    Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.
                     </p>
                     <p>KCRW's UnFictional. “Bookbinder.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
+	                Producer: Daniel A. Gross. Scoring: Bob Carlson.
 	                </p>
                     <p>ABC's Radiotonic. “Living by the Book.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
+	                Producer: Daniel A. Gross.
 	                </p>
                     <p>Rendered Radio. “Everything is an Instrument.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
+	                Producer: Daniel A. Gross. 
+	                </p>
+	                <p>“Record of Birth.”
+                    <audio controls>
+	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
+	                    	Your browser does not support the audio element. 
+	                </audio>
+	                Producer: Daniel A. Gross. 
 	                </p>
                 </div>
             </div>
@@ -204,22 +217,30 @@
 					 	<div class="col-md-8 col-md-offset-2">
 					 	<hr><br><br>
 			                 	<h4 style="text-align:left">
-			                    	Q: How do you pronounce your last name? <br>
-									A: As if it were an exclamation of disgust. <br><br>
-									Q: Are you that guy who writes books and columns about business? <br>
-									A: Nope, sorry. That would be Daniel Gross (<a href="https://twitter.com/grossdm" target="_blank">@grossdm</a>). <br><br>
-									Q: Can I write to you with questions, comments, and hate mail? <br>
-									A: Please do. <a href="mailto:daniel.alexander.gross@gmail.com">Email me</a> or find me on Twitter  <a href="https://twitter.com/readwriteradio" target="_blank">@readwriteradio</a>. <br><br>
-									Q: What kind of a name is “Gross”? <br>
-									A: Aren't you a little old for jokes about people's names?<br><br>
-									Q: I guess so. Will you write for my magazine or produce radio for my show? <br>
-									A: I'll certainly think about it if you send me a note. Nice of you to ask. <br><br>
-									Q: But really, what kind of a name is that? <br>
-									A: (…)<br><br>
-									Q: Your silence unsettles me. Who designed your website? <br>
-									A: <a href="http://www.cristoforomagliozzi.com" target="_blank">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com" target="_blank">his latest</a>.<br><br>
-									Q: Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
-									A: I could ask you the same thing.<br><br>
+			                    	Q. How do you pronounce your last name? <br>
+									A. As if it were an exclamation of disgust. <br><br>
+									Q. Which radio shows should I listen to? <br>
+									A. There are so many fantastic shows right now. Some of my favorites are <a href="http://www.cbc.ca/radio/wiretap" target="_blank">WireTap</a>, <a href="http://www.radiodiaries.org/" target="_blank">Radio Diaries</a>, <a href="http://www.onthemedia.org/" target="_blank">On the Media</a>, <a href="http://gimletmedia.com/show/reply-all/" target="_blank">Reply All</a>, <a href="http://loveandradio.org/" target="_blank">Love	
+									+Radio</a>, and <a href="http://www.theheartradio.org/" target="_blank">The Heart</a>. Which radio shows should I listen to? <br><br>
+									Q. I'll tweet you about that. Do you have any advice for young freelancers?<br>
+									A. Yes. Keep moving, take deadlines seriously, take rejection not-so-seriously. Fill a notebook with idle thoughts, pitch them 	
+									constantly, and be silly with your editors. And don't forget to hang out with your friends. If you write me, I'll do my best to say
+									more.<br><br>
+									Q. Are you that guy who writes books and columns about business? <br>
+									A. Nope, sorry. That would be <a href="https://twitter.com/grossdm" target="_blank">Daniel Gross</a>. <br><br>
+									Q. What kind of a name is “Gross”? <br>
+									A. Aren't you a little old for jokes about people's names?<br><br>
+									Q. I guess so. Will you write for my magazine or produce radio for my show? <br>
+									A. I'll certainly think about it if you send me a note. Nice of you to ask. <br><br>
+									Q. But really, what kind of a name is that? <br>
+									A. (…)<br><br>
+									Q. Your silence unsettles me. Who designed your website? <br>
+									A. <a href="http://www.cristoforomagliozzi.com" target="_blank">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com" target="_blank">his latest</a>.<br><br>
+									Q. Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
+									A. I could ask you the same thing.<br><br>
+									Q. Can I write to you with questions, comments, and hate mail? <br>
+									A. Please do. <a href="mailto:daniel.alexander.gross@gmail.com">Email me</a> or find me on Twitter  <a href="https://twitter.com/										readwriteradio" target="_blank">@readwriteradio</a>. <br><br>
+
 								</h4>
 					 	</div>
 
@@ -227,8 +248,8 @@
     
     <!-- Footer -->
     <footer>
-        <div class="container text-center">
-            <h4 style="text-center">Copyright &copy; Daniel A. Gross 2015</h4>
+        <div class="container">
+            <h5 style="text-align:center;color:#999">Copyright &copy; Daniel A. Gross 2015</h4>
         </div>
     </footer>
 
