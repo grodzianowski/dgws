@@ -176,13 +176,13 @@
 	                    	Your browser does not support the audio element. 
 	                    </audio>
                     </p>
-                    <div style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0">Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</div>
+                    <p style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0">Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</p>
                     <p>KCRW's UnFictional. “Bookbinder.”
                     <audio controls>
 	                    	<source src="snds/Bookbinder.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <div style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0"> Producer: Daniel A. Gross. Scoring: Bob Carlson.</div>
+	                <p style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0"> Producer: Daniel A. Gross. Scoring: Bob Carlson.</p>
 	                </p>
                     <p>ABC's Radiotonic. “Living by the Book.”
                     <audio controls>
