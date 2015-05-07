@@ -175,36 +175,42 @@
 	                    	<source src="snds/Tunnel_57.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                    </audio>
+	                <div class="byline">Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</div>
                     </p>
-                    <p style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0">Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</p>
+                   
+                    
                     <p>KCRW's UnFictional. “Bookbinder.”
                     <audio controls>
 	                    	<source src="snds/Bookbinder.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <p style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0"> Producer: Daniel A. Gross. Scoring: Bob Carlson.</p>
+	                <div class="byline"> Producer: Daniel A. Gross. Scoring: Bob Carlson.</div>
 	                </p>
+	                
                     <p>ABC's Radiotonic. “Living by the Book.”
                     <audio controls>
 	                    	<source src="snds/Living_by_the_Book.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <div style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0">Producer: Daniel A. Gross.</div>
-	                </p>
+	                <div class="byline">Producer: Daniel A. Gross.</div>
+                    </p>
+	               
                     <p>Studio 360. “The Birds and the Beats.”
                     <audio controls>
 	                    	<source src="snds/Birds_and_the_Beats.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <div style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0">Producer: Daniel A. Gross.</div>
+	                <div class="byline">Producer: Daniel A. Gross.</div>
 	                </p>
+	                
 	                <p>“Record of Birth.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <div style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0">Producer: Daniel A. Gross.</div>
+	                <div class="byline">Producer: Daniel A. Gross.</div>
 	                </p>
+	                
                 </div>
             </div>
         </div>
