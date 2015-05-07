@@ -114,10 +114,10 @@
                
 		                 <ul>
 							 <li><a href="http://99percentinvisible.org/episode/tunnel-57/" target="_blank">99% Invisible</a></li>
-							 <li>NPR's All Things Considered</li>
+							 <li><a href="http://www.studio360.org/story/birds-and-beats/" target="_blank">Studio 360</a></li>
 							 <li><a href="http://www.kcrw.com/news-culture/shows/unfictional/a-need-to-build" target="_blank">KCRW's UnFictional</a></li>
-							 <li>ABC's Radiotonic</li>
-							 <li>WGBH's Innovation Hub</li>
+							 <li><a href="http://www.abc.net.au/radionational/programs/radiotonic/living-by-the-book/6286754" target="_blank">ABC's Radiotonic</a></li>
+							 <li><a href="http://blogs.wgbh.org/innovation-hub/author/DGross/" target="_blank">WGBH's Innovation Hub</a></li>
 							 <li><a href="http://www.maximumfun.org/rendered/destination-everything-instrument" target="_blank">Rendered Radio (Destination DIY)</a></li>
 							 <li><a href="http://www.chemheritage.org/discover/media/distillations/195-trash-talk-the-persistence-of-waste.aspx" target="_blank">Distillations</a></li>
 							 <li><a href="https://beta.prx.org/stories/68948" target="_blank">PRX Remix</a></li>
@@ -171,28 +171,28 @@
                     <p><a href="http://99percentinvisible.org/episode/tunnel-57/"><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px" target="_blank"></a></p> 
                     <p> 99% Invisible. “Tunnel 57.”
 	                    <audio controls>
-	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
+	                    	<source src="snds/Tunnel_57.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                    </audio>
 	                    <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0">Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</div>
                     </p>
                     <p>KCRW's UnFictional. “Bookbinder.”
                     <audio controls>
-	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
+	                    	<source src="snds/Bookbinder.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
 	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0"> Producer: Daniel A. Gross. Scoring: Bob Carlson.</div>
 	                </p>
                     <p>ABC's Radiotonic. “Living by the Book.”
                     <audio controls>
-	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
+	                    	<source src="snds/Living_by_the_Book.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
 	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0">Producer: Daniel A. Gross.</div>
 	                </p>
-                    <p>Rendered Radio. “Everything is an Instrument.”
+                    <p>Studio 360. “The Birds and the Beats.”
                     <audio controls>
-	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
+	                    	<source src="snds/Birds_and_the_Beats.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
 	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0">Producer: Daniel A. Gross.</div>
@@ -236,8 +236,6 @@
 									A. (…)<br><br>
 									Q. Your silence unsettles me. Who designed your website? <br>
 									A. <a href="http://www.cristoforomagliozzi.com" target="_blank">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com" target="_blank">his latest</a>.<br><br>
-									Q. Wait, did you really conduct a Q&A just so you wouldn't have to write an “about” section? Who actually came up with the questions? <br>
-									A. I could ask you the same thing.<br><br>
 									Q. Can I write to you with questions, comments, and hate mail? <br>
 									A. Please do. <a href="mailto:daniel.alexander.gross@gmail.com">Email me</a> or find me on Twitter  <a href="https://twitter.com/										readwriteradio" target="_blank">@readwriteradio</a>. <br><br>
 
