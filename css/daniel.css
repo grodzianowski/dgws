@@ -84,7 +84,7 @@ p img{
 }
 
 p {
-    margin: 0 0 25px;
+    margin: 0 px;
     font-size: 18px;
     line-height: 1.5;
     text-align: left;
@@ -98,7 +98,7 @@ audio{
 
 @media(min-width:768px) {
     p {
-        margin: 0 0 35px;
+        margin: 0 px;
         font-size: 20px;
         line-height: 1.6;
     }
@@ -127,7 +127,7 @@ a:focus {
     text-transform: none;
     font-family: Alegreya, serif;
     background-color: #000;
-    color:#fff;
+    color:#000;
 }
 
 .navbar-custom .navbar-brand {
@@ -198,7 +198,7 @@ a:focus {
     .navbar-custom.top-nav-collapse {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
-        background: #fff;
+        background: #000;
     }
 }
 

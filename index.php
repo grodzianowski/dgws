@@ -20,6 +20,7 @@
 
     <!-- Custom Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:100' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -94,15 +95,15 @@
                         </a> 
 						
 		                <ul>
-		               	 <li> <a href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html" target="_blank">Newsweek</a></li>
-					   	 <li> <a href="http://nautil.us/issue/16/nothingness/this-is-your-brain-on-silence" target="_blank">Nautilus Magazine</a></li>
-					   	 <li> <a href="http://www.washingtonpost.com/national/health-science/you-wont-believe-how-old-that-kitty-litter-is/2015/02/02/9ecac9ea-a1b4-11e4-903f-9f2faf7cd9fe_story.html" target="_blank">The Washington Post</a></li>
-		                 <li> <a href="http://www.smithsonianmag.com/ist/?next=/author/daniel-gross/" target="_blank">Smithsonian.com</a></li>
-		                 <li> <a href="http://www.thebigroundtable.com/stories/latter-day-saint/" target="_blank">The Big Roundtable</a></li>
-		                 <li> <a href="http://www.theatlantic.com/daniel-gross/" target="_blank">The Atlantic Online</a></li>
-		                 <li> <a href="http://www.theguardian.com/science/the-h-word/2014/jun/02/caliche-great-war-first-world-war-conflict-mineral" target="_blank">Guardian Science</a></li> 
-		                 <li> <a href="http://roadtoparis.info/2014/12/04/el-nino-mystery-pink-waters-scientists/" target="_blank">Road to Paris</a></li>
-		                 <li> <a href="http://the-toast.net/2014/04/04/testing-waters-mormon-feminists/" target="_blank">The Toast</a></li>
+		               	 <li> <a class="leadlinks" href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html" target="_blank">Newsweek</a></li>
+					   	 <li> <a class="leadlinks" href="http://nautil.us/issue/16/nothingness/this-is-your-brain-on-silence" target="_blank">Nautilus Magazine</a></li>
+					   	 <li> <a class="leadlinks" href="http://www.washingtonpost.com/national/health-science/you-wont-believe-how-old-that-kitty-litter-is/2015/02/02/9ecac9ea-a1b4-11e4-903f-9f2faf7cd9fe_story.html" target="_blank">The Washington Post</a></li>
+		                 <li> <a class="leadlinks" href="http://www.smithsonianmag.com/ist/?next=/author/daniel-gross/" target="_blank">Smithsonian.com</a></li>
+		                 <li> <a class="leadlinks" href="http://www.thebigroundtable.com/stories/latter-day-saint/" target="_blank">The Big Roundtable</a></li>
+		                 <li> <a class="leadlinks" href="http://www.theatlantic.com/daniel-gross/" target="_blank">The Atlantic Online</a></li>
+		                 <li> <a class="leadlinks" href="http://www.theguardian.com/science/the-h-word/2014/jun/02/caliche-great-war-first-world-war-conflict-mineral" target="_blank">Guardian Science</a></li> 
+		                 <li> <a class="leadlinks" href="http://roadtoparis.info/2014/12/04/el-nino-mystery-pink-waters-scientists/" target="_blank">Road to Paris</a></li>
+		                 <li> <a class="leadlinks" href="http://the-toast.net/2014/04/04/testing-waters-mormon-feminists/" target="_blank">The Toast</a></li>
 		                </ul>
 		                </div>
 		                
@@ -113,15 +114,15 @@
                          </a>
                
 		                 <ul>
-							 <li><a href="http://99percentinvisible.org/episode/tunnel-57/" target="_blank">99% Invisible</a></li>
-							 <li><a href="http://www.studio360.org/story/birds-and-beats/" target="_blank">Studio 360</a></li>
-							 <li><a href="http://www.kcrw.com/news-culture/shows/unfictional/a-need-to-build" target="_blank">KCRW's UnFictional</a></li>
-							 <li><a href="http://www.abc.net.au/radionational/programs/radiotonic/living-by-the-book/6286754" target="_blank">ABC's Radiotonic</a></li>
-							 <li><a href="http://blogs.wgbh.org/innovation-hub/author/DGross/" target="_blank">WGBH's Innovation Hub</a></li>
-							 <li><a href="http://www.maximumfun.org/rendered/destination-everything-instrument" target="_blank">Rendered Radio (Destination DIY)</a></li>
-							 <li><a href="http://www.chemheritage.org/discover/media/distillations/195-trash-talk-the-persistence-of-waste.aspx" target="_blank">Distillations</a></li>
-							 <li><a href="https://beta.prx.org/stories/68948" target="_blank">PRX Remix</a></li>
-							 <li><a href="http://www.thirdcoastfestival.org/library/1560-re-sound-188-the-tight-spaces-show" target="_blank"> Re:Sound</a></li>
+							 <li><a class="leadlinks" href="http://99percentinvisible.org/episode/tunnel-57/" target="_blank">99% Invisible</a></li>
+							 <li><a class="leadlinks" href="http://www.studio360.org/story/birds-and-beats/" target="_blank">Studio 360</a></li>
+							 <li><a class="leadlinks" href="http://www.kcrw.com/news-culture/shows/unfictional/a-need-to-build" target="_blank">KCRW's UnFictional</a></li>
+							 <li><a class="leadlinks" href="http://www.abc.net.au/radionational/programs/radiotonic/living-by-the-book/6286754" target="_blank">ABC's Radiotonic</a></li>
+							 <li><a class="leadlinks" href="http://blogs.wgbh.org/innovation-hub/author/DGross/" target="_blank">WGBH's Innovation Hub</a></li>
+							 <li><a class="leadlinks" href="http://www.maximumfun.org/rendered/destination-everything-instrument" target="_blank">Rendered Radio (Destination DIY)</a></li>
+							 <li><a class="leadlinks" href="http://www.chemheritage.org/discover/media/distillations/195-trash-talk-the-persistence-of-waste.aspx" target="_blank">Distillations</a></li>
+							 <li><a class="leadlinks" href="https://beta.prx.org/stories/68948" target="_blank">PRX Remix</a></li>
+							 <li><a class="leadlinks" href="http://www.thirdcoastfestival.org/library/1560-re-sound-188-the-tight-spaces-show" target="_blank"> Re:Sound</a></li>
 		                 </ul>
 		                </div>
 		             <hr>
@@ -174,35 +175,35 @@
 	                    	<source src="snds/Tunnel_57.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                    </audio>
-	                    <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0">Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</div>
+	                    <div style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0">Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</div>
                     </p>
                     <p>KCRW's UnFictional. “Bookbinder.”
                     <audio controls>
 	                    	<source src="snds/Bookbinder.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0"> Producer: Daniel A. Gross. Scoring: Bob Carlson.</div>
+	                <div style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0"> Producer: Daniel A. Gross. Scoring: Bob Carlson.</div>
 	                </p>
                     <p>ABC's Radiotonic. “Living by the Book.”
                     <audio controls>
 	                    	<source src="snds/Living_by_the_Book.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0">Producer: Daniel A. Gross.</div>
+	                <div style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0">Producer: Daniel A. Gross.</div>
 	                </p>
                     <p>Studio 360. “The Birds and the Beats.”
                     <audio controls>
 	                    	<source src="snds/Birds_and_the_Beats.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0">Producer: Daniel A. Gross.</div>
+	                <div style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0">Producer: Daniel A. Gross.</div>
 	                </p>
 	                <p>“Record of Birth.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
-	                <div style="font-size: 14px; text-align: left; margin-top: 0; padding-top: 0">Producer: Daniel A. Gross.</div>
+	                <div style="font-size: 14px; text-align: left; margin-top: 0; margin-bottom: 10 px; padding-top: 0">Producer: Daniel A. Gross.</div>
 	                </p>
                 </div>
             </div>
