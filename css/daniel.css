@@ -84,7 +84,7 @@ p img{
 }
 
 p {
-    margin: 0 px;
+    margin: 0;
     font-size: 18px;
     line-height: 1.5;
     text-align: left;
@@ -98,7 +98,7 @@ audio{
 
 @media(min-width:768px) {
     p {
-        margin: 0 px;
+        margin: 0;
         font-size: 20px;
         line-height: 1.6;
     }
@@ -150,7 +150,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #000;
+    color: #fff;
 }
 
 .navbar-custom .nav li a {
