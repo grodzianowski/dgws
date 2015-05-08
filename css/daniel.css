@@ -98,6 +98,7 @@ audio{
 }
 
 .byline{
+	font-family: Alegreya, serif;
 	font-size: 14px; 
 	text-align: left; 
 	margin-top: 0; 
