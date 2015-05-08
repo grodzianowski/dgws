@@ -170,45 +170,51 @@
                     <hr><br><br>
                     <h4>You can hear my audio stories on public radio shows and podcasts.</h4>
                     <p style="margin-bottom: 35px;"><a href="http://99percentinvisible.org/episode/tunnel-57/"><img src="img/99invisible.jpg" alt="99% Invisible" style="width:730px" target="_blank"></a></p> 
-                    <p> 99% Invisible. “Tunnel 57.”
+                    <p style="height:60px;> 99% Invisible."> “Tunnel 57.”
 	                    <audio controls>
 	                    	<source src="snds/Tunnel_57.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                    </audio>
-	                <div class="byline">Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</div>
+	                    <div class="byline">Producer: Daniel A. Gross. Editing and Scoring: Roman Mars and Sam Greenspan.</div>
+	                    <br><br>
+	    
                     </p>
                    
                     
-                    <p>KCRW's UnFictional. “Bookbinder.”
+                    <p style="height:60px;">KCRW's UnFictional. “Bookbinder.”
                     <audio controls>
 	                    	<source src="snds/Bookbinder.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
 	                <div class="byline"> Producer: Daniel A. Gross. Scoring: Bob Carlson.</div>
+	                <br><br>
 	                </p>
 	                
-                    <p>ABC's Radiotonic. “Living by the Book.”
+                    <p style="height:60px">ABC's Radiotonic. “Living by the Book.”
                     <audio controls>
 	                    	<source src="snds/Living_by_the_Book.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
 	                <div class="byline">Producer: Daniel A. Gross.</div>
+	                 <br><br>
                     </p>
 	               
-                    <p>Studio 360. “The Birds and the Beats.”
+                    <p style="height:60px">Studio 360. “The Birds and the Beats.”
                     <audio controls>
 	                    	<source src="snds/Birds_and_the_Beats.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
 	                <div class="byline">Producer: Daniel A. Gross.</div>
+	                 <br><br>
 	                </p>
 	                
-	                <p>“Record of Birth.”
+	                <p style="height:60px">“Record of Birth.”
                     <audio controls>
 	                    	<source src="snds/Record_of_Birth.mp3" type="audio/mpeg">
 	                    	Your browser does not support the audio element. 
 	                </audio>
 	                <div class="byline">Producer: Daniel A. Gross.</div>
+	                 <br><br>
 	                </p>
 	                
                 </div>
