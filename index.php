@@ -230,27 +230,27 @@
 					 	<div class="col-md-8 col-md-offset-2">
 					 	<hr><br><br>
 			                 	<h4 style="text-align:left">
-			                    	<b>Q.</b> How do you pronounce your last name? <br>
-									<b>A.</b> As if it were an exclamation of disgust. <br><br>
-									<b>Q.</b> Which radio shows should I listen to? <br>
-									<b>A.</b> There are so many fantastic shows right now. Some of my favorites are <a href="http://www.cbc.ca/radio/wiretap" target="_blank">WireTap</a>, <a href="http://www.radiodiaries.org/" target="_blank">Radio Diaries</a>, <a href="http://www.onthemedia.org/" target="_blank">On the Media</a>, <a href="http://gimletmedia.com/show/reply-all/" target="_blank">Reply All</a>, <a href="http://loveandradio.org/" target="_blank">Love	
+			                    	<strong>Q.</strong> How do you pronounce your last name? <br>
+									<strong>A.</strong> As if it were an exclamation of disgust. <br><br>
+									<strong>Q.</strong> Which radio shows should I listen to? <br>
+									<strong>A.</strong> There are so many fantastic shows right now. Some of my favorites are <a href="http://www.cbc.ca/radio/wiretap" target="_blank">WireTap</a>, <a href="http://www.radiodiaries.org/" target="_blank">Radio Diaries</a>, <a href="http://www.onthemedia.org/" target="_blank">On the Media</a>, <a href="http://gimletmedia.com/show/reply-all/" target="_blank">Reply All</a>, <a href="http://loveandradio.org/" target="_blank">Love	
 									+Radio</a>, and <a href="http://www.theheartradio.org/" target="_blank">The Heart</a>. Which radio shows should I listen to? <br><br>
-									<b>Q.</b> I'll tweet you about that. Do you have any advice for young freelancers?<br>
-									<b>A.</b> Yes. Keep moving, take deadlines seriously, take rejection not-so-seriously. Fill a notebook with idle thoughts, pitch them 	
+									<strong>Q.</strong> I'll tweet you about that. Do you have any advice for young freelancers?<br>
+									<strong>A.</strong> Yes. Keep moving, take deadlines seriously, take rejection not-so-seriously. Fill a notebook with idle thoughts, pitch them 	
 									constantly, and be silly with your editors. And don't forget to hang out with your friends. If you write me, I'll do my best to say
 									more.<br><br>
-									<b>Q.</b> Are you that guy who writes books and columns about business? <br>
-									<b>A.</b> Nope, sorry. That would be <a href="https://twitter.com/grossdm" target="_blank">Daniel Gross</a>. <br><br>
-									<b>Q.</b> What kind of a name is “Gross”? <br>
-									<b>A.</b> Aren't you a little old for jokes about people's names?<br><br>
-									<b>Q.</b> I guess so. Will you write for my magazine or produce radio for my show? <br>
-									<b>A.</b> I'll certainly think about it if you send me a note. Nice of you to ask. <br><br>
-									<b>Q.</b> But really, what kind of a name is that? <br>
-									<b>A.</b> (…)<br><br>
-									<b>Q.</b> Your silence unsettles me. Who designed your website? <br>
-									<b>A.</b> <a href="http://www.cristoforomagliozzi.com" target="_blank">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com" target="_blank">his latest</a>.<br><br>
-									<b>Q.</b> Can I write to you with questions, comments, and hate mail? <br>
-									<b>A.</b> Please do. <a href="mailto:daniel.alexander.gross@gmail.com">Email me</a> or find me on Twitter  <a href="https://twitter.com/										readwriteradio" target="_blank">@readwriteradio</a>. <br><br>
+									<strong>Q.</strong> Are you that guy who writes books and columns about business? <br>
+									<strong>A.</strong> Nope, sorry. That would be <a href="https://twitter.com/grossdm" target="_blank">Daniel Gross</a>. <br><br>
+									<strong>Q.</strong> What kind of a name is “Gross”? <br>
+									<strong>A.</strong> Aren't you a little old for jokes about people's names?<br><br>
+									<strong>Q.</strong> I guess so. Will you write for my magazine or produce radio for my show? <br>
+									<strong>A.</strong> I'll certainly think about it if you send me a note. Nice of you to ask. <br><br>
+									<strong>Q.</strong> But really, what kind of a name is that? <br>
+									<strong>A.</strong> (…)<br><br>
+									<strong>Q.</strong> Your silence unsettles me. Who designed your website? <br>
+									<strong>A.</strong> <a href="http://www.cristoforomagliozzi.com" target="_blank">Cristoforo Magliozzi</a>. He directs films, too. You should watch <a href="http://www.coldstoragedoc.com" target="_blank">his latest</a>.<br><br>
+									<strong>Q.</strong> Can I write to you with questions, comments, and hate mail? <br>
+									<strong>A.</strong> Please do. <a href="mailto:daniel.alexander.gross@gmail.com">Email me</a> or find me on Twitter  <a href="https://twitter.com/										readwriteradio" target="_blank">@readwriteradio</a>. <br><br>
 
 								</h4>
 					 	</div>
