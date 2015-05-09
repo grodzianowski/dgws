@@ -17,6 +17,10 @@
 
     <!-- Custom CSS -->
     <link href="css/daniel.css" rel="stylesheet">
+    
+    <!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="css/ie.css" />
+	<![endif]-->
 
     <!-- Custom Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
