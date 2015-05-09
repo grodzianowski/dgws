@@ -256,6 +256,12 @@ a:focus {
     }
 }
 
+@-moz-document url-prefix() {
+    .leftcolumn {
+        margin-left: -55px !important;
+    }
+}
+
 
 .btn-about {
     width: 55px;
