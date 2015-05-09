@@ -12,16 +12,16 @@
 
     <title>Daniel A. Gross — writes & makes radio</title>
 
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="css/ie.css" />
+	<![endif]-->
+
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/daniel.css" rel="stylesheet">
     
-    <!--[if IE]>
-	<link rel="stylesheet" type="text/css" href="css/ie.css" />
-	<![endif]-->
-
     <!-- Custom Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
@@ -99,7 +99,7 @@
                         <i class="fa fa-angle-double-down animated"></i>
                         </a> 
 						
-		                <ul class="leftcolumn" style="margin-left:-15px;" > 
+		                <ul class="leftcolumn ie" style="margin-left:-15px;" > 
 		               	 <li> <a class="leadlinks" href="http://www.newsweek.com/2015/02/06/poland-jewish-culture-rises-ashes-persecution-302278.html" target="_blank">Newsweek</a></li>
 					   	 <li> <a class="leadlinks" href="http://nautil.us/issue/16/nothingness/this-is-your-brain-on-silence" target="_blank">Nautilus Magazine</a></li>
 					   	 <li> <a class="leadlinks" href="http://www.washingtonpost.com/national/health-science/you-wont-believe-how-old-that-kitty-litter-is/2015/02/02/9ecac9ea-a1b4-11e4-903f-9f2faf7cd9fe_story.html" target="_blank">The Washington Post</a></li>
