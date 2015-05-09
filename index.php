@@ -91,7 +91,7 @@
                 	<hr>
                 	
 		                <div class="col-md-6" style="text-align:left">
-		                <a class="leftcolumn" style="margin-left:-15px;" href="#writing" class="btn btn-writes page-scroll">
+		                <a style="margin-left:-15px;" href="#writing" class="btn btn-writes page-scroll">
                         <i class="fa fa-angle-double-down animated"></i>
                         </a> 
 						
